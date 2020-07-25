@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am a high school student dreaming of becoming a programmer. 
+
+My Website: [Link](http://www.yonghyeon.com)
+My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)
 
 <!--
 **gunyu1019/gunyu1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
