@@ -1,8 +1,8 @@
 ### Hi there 👋
 I am a high school student dreaming of becoming a programmer. 
 
-My Website: [Link](http://www.yonghyeon.com)<br/>
-My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>
+**My Website: [Link](http://www.yonghyeon.com)<br/>
+My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 ![gunyu1019's github Status](https://github-readme-stats.vercel.app/api?username=gunyu1019&show_icons=true&theme=tokyonight)
 ### Top Language
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gunyu1019&theme=tokyonight)<br/>
