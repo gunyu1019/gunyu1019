@@ -1,9 +1,12 @@
 ### Hi there 👋
 I am a high school student dreaming of becoming a programmer. 
 
-My Website: [Link](http://www.yonghyeon.com)<br/>
-My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)
+### Top Language
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gunyu1019)<br/>
 
+My Website: [Link](http://www.yonghyeon.com)<br/>
+My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>
+![Profile Status](https://github-readme-stats.vercel.app/api?username=gunyu1019&show_icons=true)
 <!--
 **gunyu1019/gunyu1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
