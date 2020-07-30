@@ -21,12 +21,21 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 **Thank you for listening**
 
 **I don't think HTML is a programming language.**
-
+### Project
+**I am proceeding with and managing several projects, but I would like to introduce the projects below.<br/>**
+<a href="http://www.yonghyeon.com/YBOT/invite.html">
+  <img src="http://yhs.kr/src/img/YBOT.png" width="30px">
+  <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
+</a></br>
+<a href="http://www.yonghyeon.com/YBOT/invite.html">
+  <img src="http://yhs.kr/src/img/PUBG%20BOT.png"  width="30px">
+  <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
+</a>
 ### Content Us
 <a href="mailto:gunyu1019@gmail.com">
   <img src="https://img.shields.io/badge/Mail-gunyu1019@gmail.com-0080aa?style=for-the-badge&logo=gmail">
 </a><a href="mailto:admin@yhs.com">
-  <img src="https://img.shields.io/badge/Domain%20Mail-admin@yhs.kr-0080aa?style=for-the-badge&logo=mail">
+  <img src="https://img.shields.io/badge/Domain%20Mail-admin@yhs.kr-0080aa?style=for-the-badge">
 </a>
 <!--
 **gunyu1019/gunyu1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
