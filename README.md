@@ -22,11 +22,11 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 
 **I don't think HTML is a programming language.**
 ### Project
-**I am proceeding with and managing several projects, but I would like to introduce the projects below.<br/>**
+**I am proceeding with and managing several projects, but I would like to introduce the projects below.(as of 2020)<br/>**
 <a href="http://www.yonghyeon.com/YBOT/invite.html">
   <img src="http://yhs.kr/src/img/YBOT.png" width="30px">
   <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
-</a></br>
+</a><br/>
 <a href="http://www.yonghyeon.com/PUBG_BOT/invite.html">
   <img src="http://yhs.kr/src/img/PUBG%20BOT.png"  width="30px">
   <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
