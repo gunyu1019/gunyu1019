@@ -19,6 +19,7 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=fff)**.</br>**
 **Thank you for listening**
 
+**I don't think HTML is a programming language.**
 <!--
 **gunyu1019/gunyu1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
