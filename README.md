@@ -6,7 +6,7 @@ My Normal Blog(Naver Blog): [Link](https://blog.naver.com/gunyu1019)<br/>
 My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 ![gunyu1019's github Status](https://github-readme-stats.vercel.app/api?username=gunyu1019&show_icons=true&theme=tokyonight)
 ### Top Language
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gunyu1019&theme=tokyonight)<br/>
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gunyu1019&theme=tokyonight&layout=compact)<br/>
 **I can do**
 ![Python](https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=python&logoColor=fff),
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=000),
