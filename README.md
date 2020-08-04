@@ -30,6 +30,8 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 <a href="http://www.yonghyeon.com/PUBG_BOT/invite.html">
   <img src="http://yhs.kr/src/img/PUBG%20BOT.png"  width="30px">
   <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
+</a><a href="https://github.com/Team-Developer-Space/PUBG-BOT">
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github">
 </a>
 ### Content Us
 <a href="mailto:gunyu1019@gmail.com">
