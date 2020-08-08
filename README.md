@@ -16,7 +16,7 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff),
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=fff) **and**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=fff) **<br/> I'm learning**
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=NodeJS&logoColor=fff).<br/>Finally, I want learn about**
+![NodeJS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=Node.JS&logoColor=fff).<br/>Finally, I want learn about**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff) **and**
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=fff)**.</br>**
 **Thank you for listening**
