@@ -15,7 +15,8 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 ![JavaSprict](https://img.shields.io/badge/JavaSprict-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) **for Kakao Bot,
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff),
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=fff) **and**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=fff). **<br/> I'm learning**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=fff),
+![JavaSprict](https://img.shields.io/badge/JavaSprict-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) **for Web. <br/> I'm learning**
 ![NodeJS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=Node.JS&logoColor=fff).<br/>Finally, I want learn about**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff) **and**
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=fff)**.</br>**
