@@ -29,7 +29,7 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 <a href="http://www.yonghyeon.com/YBOT/invite.html">
   <img src="http://yhs.kr/src/img/YBOT.png" width="30px">
   <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
-</a><a href="https://github.com/Team-Developer-Space/BOT">
+</a><a href="https://github.com/Team-Developer-Space/YBOT">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github">
 </a><br/>
 <a href="http://www.yonghyeon.com/PUBG_BOT/invite.html">
