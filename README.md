@@ -12,18 +12,14 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=000),
 ![C++](https://img.shields.io/badge/C++-0059CC?style=for-the-badge&logo=c%2B%2B&logoColor=fff),
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=fff),
-![JavaSprict](https://img.shields.io/badge/JavaSprict-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) **for Kakao Bot,**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff),
-![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=fff) **and**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=fff). **<br/> I'm learning**
-![NodeJS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=Node.JS&logoColor=fff) **and**
-![JavaSprict](https://img.shields.io/badge/JavaSprict-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) **for Dynmic Web. <br/>Finally, I want learn about**
+![JavaSprict](https://img.shields.io/badge/JavaSprict-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000),
+![node.js](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=000) **and**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=fff).<br/> **Finally, I want learn about**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff) **and**
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=fff) **.</br>**
 
 **Thank you for listening**
 
-**I don't think HTML is a programming language.**
 ### Project
 **I am proceeding with and managing several projects, but I would like to introduce the projects below.(as of 2020)<br/>**
 <a href="http://www.yonghyeon.com/YBOT/invite.html">
