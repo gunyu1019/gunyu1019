@@ -41,7 +41,20 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 </a>
 
 ### Tool
-
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code"><ul>
+  <li> <img src="https://img.shields.io/badge/Python3-3776AB?style=flat-square&logo=python&logoColor=fff"></li>
+  <li> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff"></li>
+  <li> <img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=node.js&logoColor=fff"></li>
+  <li> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=fff"></li>
+  <li> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=fff"></li>
+</ul>
+<img src="https://img.shields.io/badge/Code%20Block-808080?style=for-the-badge"><ul>
+  <li> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=fff"></li>
+  <li> <img src="https://img.shields.io/badge/C++-0059CC?style=flat-square&logo=c%2B%2B&logoColor=fff"></li>
+</ul>
+<img src="https://img.shields.io/badge/Notepad-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=fff""><ul>
+  <li> <img src="https://img.shields.io/badge/Others-808080?style=flat-square"></li>
+</ul>
 
 ### Content Us
 <a href="mailto:gunyu1019@gmail.com">
