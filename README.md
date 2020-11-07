@@ -52,6 +52,9 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
   <li> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=fff"></li>
   <li> <img src="https://img.shields.io/badge/C++-0059CC?style=flat-square&logo=c%2B%2B&logoColor=fff"></li>
 </ul>
+<img src="https://img.shields.io/badge/IntelliJ%20idea-000000?style=for-the-badge&logo=IntelliJ%20idea"><ul>
+  <li> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=fff"></li>
+</ul>
 <img src="https://img.shields.io/badge/Notepad-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=fff""><ul>
   <li> <img src="https://img.shields.io/badge/Others-808080?style=flat-square"></li>
 </ul>
