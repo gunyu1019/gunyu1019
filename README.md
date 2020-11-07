@@ -47,7 +47,7 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 
 
 ### Team
-**I belong to the teams of names below.**
+**I belong to the developer teams of names below.**
 <ul>
   <li><a href="https://github.com/Team-Developer-Space"><img src="https://img.shields.io/badge/Team%20Developer%20Space-808080?style=flat-square"></a></li>
   <li><a href="https://github.com/DevHul3"><img src="https://img.shields.io/badge/DevHub-292b2f?style=flat-square"></a></li>
