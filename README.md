@@ -60,7 +60,7 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 <img src="https://img.shields.io/badge/IntelliJ%20idea-000000?style=for-the-badge&logo=IntelliJ%20idea"><ul>
   <li> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=fff"></li>
 </ul>
-<img src="https://img.shields.io/badge/Notepad-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=fff""><ul>
+<img src="https://img.shields.io/badge/Notepad-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=000""><ul>
   <li> <img src="https://img.shields.io/badge/Others-808080?style=flat-square"></li>
 </ul>
 
