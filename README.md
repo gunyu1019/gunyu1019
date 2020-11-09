@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a high school student dreaming of becoming a programmer. 
+I am an ordinary high school student who is almost a hobby and is making discord robots in 2020 and running various communities and learning programming.
 
 **My Website: [Link](http://www.yonghyeon.com), [Sub-Link](http://yhs.kr)<br/>
 My Normal Blog(Naver Blog): [Link](https://blog.naver.com/gunyu1019)<br/>
