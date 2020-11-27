@@ -26,7 +26,7 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 
 ### Project
 **I am proceeding with and managing several projects, but I would like to introduce the projects below.(as of 2020)<br/>**
-<a href="http://www.yonghyeon.com/YBOT/invite.html">
+<a href="http://www.yonghyeon.com/YBOT/">
   <img src="https://cdn.discordapp.com/avatars/680694763036737536/0fab7e430727fd21370e328e41161bc5.png" width="30px">
   <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
 </a><a href="https://github.com/Team-Developer-Space/YBOT">
