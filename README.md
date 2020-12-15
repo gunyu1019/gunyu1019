@@ -28,7 +28,7 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gunyu1019&theme=tokyonight)](https://wakatime.com/@gunyu1019)<br/>
 **I am proceeding with and managing several projects, but I would like to introduce the projects below.(as of 2020)<br/>**
 <a href="http://www.yonghyeon.com/YBOT/">
-  <img src="https://cdn.discordapp.com/avatars/680694763036737536/0fab7e430727fd21370e328e41161bc5.png" width="30px">
+  <img src="http://www.yonghyeon.com/YBOT/static/img/YBOT.png" width="30px">
   <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
 </a><a href="https://github.com/Team-Developer-Space/YBOT">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github">
