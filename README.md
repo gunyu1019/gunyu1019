@@ -8,7 +8,7 @@ I am an ordinary high school student who is almost a hobby and is making discord
 **My Website: [Link](http://www.yonghyeon.com), [Sub-Link](http://yhs.kr)<br/>
 My Normal Blog(Naver Blog): [Link](https://blog.naver.com/gunyu1019)<br/>
 My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
-![gunyu1019's github Status](https://github-readme-stats.vercel.app/api?username=gunyu1019&show_icons=true&theme=tokyonight)
+![gunyu1019's github Status](https://github-readme-stats.vercel.app/api?username=gunyu1019&count_private=true&show_icons=true&theme=tokyonight)
 ### Top Language
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gunyu1019&theme=tokyonight&layout=compact)<br/>
 **I can do**
