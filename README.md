@@ -1,10 +1,6 @@
 ### Hi there 👋
 I am an ordinary high school student who is almost a hobby and is making discord robots in 2020 and running various communities and learning programming.
 
-> 한국어: 본인 "gunyu1019"는 현 고등학교 생활을 학업(수행평가, 중간고사, 기말고사, 수능)보다 본인 진로에 더 기여를 할 것이며, 체력 문제가 발생하더라도 감안하여서 무조건 제가 원하는 것을 이루고자 합니다.
-
-> English: Your "gunyu1019" will contribute more to your career than to your studies (performance evaluation, midterm, final exam, CSAT), and even if you have physical problems, I want to achieve what I want unconditionally.
-
 **My Website: [Link](http://www.yonghyeon.com), [Sub-Link](http://yhs.kr)<br/>
 My Normal Blog(Naver Blog): [Link](https://blog.naver.com/gunyu1019)<br/>
 My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
