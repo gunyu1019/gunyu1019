@@ -51,7 +51,7 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 **I belong to the developer teams of names below.**
 <ul>
   <li><a href="https://github.com/Team-Developer-Space"><img src="https://img.shields.io/badge/Team%20Developer%20Space-808080?style=flat-square"></a></li>
-  <li><a href="https://github.com/DevHul3"><img src="https://img.shields.io/badge/DevHub-292b2f?style=flat-square"></a></li>
+  <li><a href="https://github.com/DevHul3"><img src="https://img.shields.io/badge/iTech(구,DevHub)-292b2f?style=flat-square"></a></li>
   <li><a href="https://github.com/team-alpha-kr"><img src="https://img.shields.io/badge/Team%20Alpha-AA0000?style=flat-square"></a></li>
   <li><a href="https://github.com/TeamEnd"><img src="https://img.shields.io/badge/Team%20End-808080?style=flat-square"></a></li>
   <li><a href="https://hkdev.services/"><img src="https://img.shields.io/badge/HK%20For%20Developers-16191a?style=flat-square"></a></li>
