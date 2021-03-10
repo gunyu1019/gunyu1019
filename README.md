@@ -11,7 +11,7 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 ![Python](https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=python&logoColor=fff),
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=000),
 ![C++](https://img.shields.io/badge/C++-0059CC?style=for-the-badge&logo=c%2B%2B&logoColor=fff),
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=fff),
+![SQL](https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=MariaDB&logoColor=fff),
 ![JavaSprict](https://img.shields.io/badge/JavaSprict-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000),
 ![node.js](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=fff) **and**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=fff).<br/> **Finally, I want learn about**
@@ -23,6 +23,8 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 ### Project
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gunyu1019&theme=tokyonight)](https://wakatime.com/@gunyu1019)<br/>
 **I am proceeding with and managing several projects, but I would like to introduce the projects below.(as of 2020)<br/>**
+
+#### From 2020
 <a href="http://www.yonghyeon.com/YBOT/">
   <img src="http://www.yonghyeon.com/YBOT/static/img/YBOT.png" width="30px">
   <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
@@ -36,16 +38,15 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github">
 </a><br/><a href="https://yhs.kr">
   <img src="https://img.shields.io/badge/YWEB-00AAFF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PREPARING(MAKING)-AA0000?style=for-the-badge">
 </a><a href="https://www.ssllabs.com/ssltest/analyze.html?d=yhs.kr&hideResults=on&latest">
   <img src="https://img.shields.io/badge/SSH%20LAB-A+-00EE00?style=for-the-badge">
-</a><br/><a href="https://teamalpha.ga/">
-  <img src="https://img.shields.io/badge/MBOT-FFAA00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PREPARING(MAKING)-AA0000?style=for-the-badge">
-</a><a href="https://github.com/team-alpha-kr/project-MBOT">
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github">
 </a>
 
+#### From 2021
+<a href="https://github.com/gunyu1019/NUGU_school">
+  <img src="https://yhs.kr/api/NUGU/icon"  width="30px">
+  <img src="https://img.shields.io/badge/NUGU%20Play%20학교알리미-0070EE?style=for-the-badge">
+</a>
 
 ### Team
 **I belong to the developer teams of names below.**
