@@ -74,10 +74,11 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 </ul>-->
 
 ### Content Us
+**You should know that spamming will make the email dangerous!**
 <a href="mailto:gunyu1019@gmail.com">
-  <img src="https://img.shields.io/badge/Mail-gunyu1019@gmail.com-0080aa?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Gmail-gunyu1019@gmail.com-0080aa?style=for-the-badge&logo=gmail">
 </a><a href="mailto:admin@yhs.com">
-  <img src="https://img.shields.io/badge/Domain%20Mail-admin@yhs.kr-0080aa?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Main%20Mail-gunyu1019@yhs.kr-0080aa?style=for-the-badge">
 </a>
 <!--
 **gunyu1019/gunyu1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
