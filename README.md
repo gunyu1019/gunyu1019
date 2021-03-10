@@ -40,7 +40,10 @@ My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
   <img src="https://img.shields.io/badge/YWEB-00AAFF?style=for-the-badge">
 </a><a href="https://www.ssllabs.com/ssltest/analyze.html?d=yhs.kr&hideResults=on&latest">
   <img src="https://img.shields.io/badge/SSH%20LAB-A+-00EE00?style=for-the-badge">
+</a><br/><a href="https://github.com/gunyu1019/PUBG-API">
+  <img src="https://img.shields.io/badge/PUBG%20API-AA3000?style=for-the-badge">
 </a>
+
 
 #### From 2021
 <a href="https://github.com/gunyu1019/NUGU_school">
