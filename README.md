@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an ordinary high school student who is almost a hobby and is making discord robots in 2020 and running various communities and learning programming.
+I am an ordinary high school student who does various programming (Web, Android Application, Discord Bot, Python module, etc.) that is close to my hobby.
 
 **My Website: [Link](http://www.yonghyeon.com), [Sub-Link](http://yhs.kr)<br/>
 My Normal Blog(Naver Blog): [Link](https://blog.naver.com/gunyu1019)<br/>
