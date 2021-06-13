@@ -10,6 +10,7 @@ My Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
   <li> <img src="https://img.shields.io/badge/Python3-3776AB?style=flat-square&logo=python&logoColor=fff"> <b>(Main)</b> </li>
   <li> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=fff"> <b>(Sub Main)</b> </li>
   <li> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=fff">, <img src="https://img.shields.io/badge/C++-0059CC?style=flat-square&logo=c%2B%2B&logoColor=fff"></li>
+  <li> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=fff"></li>
   <li> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000">,  <img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=node.js&logoColor=fff"></li>
   <li> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff"> <b>(Novice)</b> </li>
 </ul>
