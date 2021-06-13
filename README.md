@@ -1,81 +1,25 @@
 ### Hi there 👋
-I am an ordinary high school student who does various programming (Web, Android Application, Discord Bot, Python module, etc.) that is close to my hobby.
+I am an high school student who does various programming (Web, Android Application, Minecraft Plugin, Discord Bot, Python module, etc.).
 
 **My Website: [Link](http://www.yonghyeon.com), [Sub-Link](http://yhs.kr)<br/>
-My Normal Blog(Naver Blog): [Link](https://blog.naver.com/gunyu1019)<br/>
-My Developer Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
+My Blog(Tistory):  [Link](https://coding-y.tistory.com)<br/>**
 ![gunyu1019's github Status](https://github-readme-stats.vercel.app/api?username=gunyu1019&count_private=true&show_icons=true&theme=tokyonight)
 ### Top Language
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gunyu1019&theme=tokyonight&layout=compact)<br/>
-**I can do**
-![Python](https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=python&logoColor=fff),
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=000),
-![C++](https://img.shields.io/badge/C++-0059CC?style=for-the-badge&logo=c%2B%2B&logoColor=fff),
-![SQL](https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=MariaDB&logoColor=fff),
-![JavaSprict](https://img.shields.io/badge/JavaSprict-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000),
-![node.js](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=fff) **and**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=fff).<br/> **Finally, I want learn about**
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff) **and**
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=fff) **.</br>**
-
-**Thank you for listening**
-
-### Project
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gunyu1019&theme=tokyonight)](https://wakatime.com/@gunyu1019)<br/>
-**I am proceeding with and managing several projects, but I would like to introduce the projects below.(as of 2020)<br/>**
-
-#### From 2020
-<a href="http://www.yonghyeon.com/YBOT/">
-  <img src="http://www.yonghyeon.com/YBOT/static/img/YBOT.png" width="30px">
-  <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
-</a><a href="https://github.com/Team-Developer-Space/YBOT">
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github">
-</a><br/>
-<a href="http://www.yonghyeon.com/PUBG_BOT/invite.html">
-  <img src="https://cdn.discordapp.com/avatars/704683198164238446/881185aa6072380f23df7517e483e8ff.png"  width="30px">
-  <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
-</a><a href="https://github.com/Team-Developer-Space/PUBG-BOT">
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github">
-</a><br/><a href="https://yhs.kr">
-  <img src="https://img.shields.io/badge/YWEB-00AAFF?style=for-the-badge">
-</a><a href="https://www.ssllabs.com/ssltest/analyze.html?d=yhs.kr&hideResults=on&latest">
-  <img src="https://img.shields.io/badge/SSH%20LAB-A+-00EE00?style=for-the-badge">
-</a><br/><a href="https://github.com/gunyu1019/PUBG-API">
-  <img src="https://img.shields.io/badge/PUBG%20API-AA3000?style=for-the-badge">
-</a>
-
-
-#### From 2021
-<a href="https://github.com/gunyu1019/NUGU_school">
-  <img src="https://yhs.kr/api/NUGU/icon"  width="30px">
-  <img src="https://img.shields.io/badge/NUGU%20Play%20학교알리미-0070EE?style=for-the-badge">
-</a>
+**My Program Language(I can do this language.)**<ul>
+  <li> <img src="https://img.shields.io/badge/Python3-3776AB?style=flat-square&logo=python&logoColor=fff"> <b>(Main)</b> </li>
+  <li> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=fff"> <b>(Sub Main)</b> </li>
+  <li> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=fff">, <img src="https://img.shields.io/badge/C++-0059CC?style=flat-square&logo=c%2B%2B&logoColor=fff"></li>
+  <li> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000">,  <img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=node.js&logoColor=fff"></li>
+  <li> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff"> <b>(Novice)</b> </li>
+</ul>
 
 ### Team
 **I belong to the developer teams of names below.**
 <ul>
-  <li><a href="https://github.com/CalicoCheese"><img src="https://img.shields.io/badge/CalicoCheese-808080?style=flat-square"></a></li>
-  <li><a href="https://hkdev.xyz/"><img src="https://img.shields.io/badge/HK%20For%20Developers-16191a?style=flat-square"></a></li>
+  <li><a href="https://github.com/CalicoCheese"><img src="https://img.shields.io/badge/CalicoCheese-808080?style=flat-square"></a> : Calico Cheese is a team that works separately and helps each other with the project.</li>
+  <li><a href="https://hkdev.xyz/"><img src="https://img.shields.io/badge/HK%20For%20Developers-16191a?style=flat-square"></a> : <Discord Partner> A Korean community of developers operated by Discord.</li>
 </ul>
-
-<!--### Tool
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code"><ul>
-  <li> <img src="https://img.shields.io/badge/Python3-3776AB?style=flat-square&logo=python&logoColor=fff"></li>
-  <li> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff"></li>
-  <li> <img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=node.js&logoColor=fff"></li>
-  <li> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=fff"></li>
-  <li> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=fff"></li>
-</ul>
-<img src="https://img.shields.io/badge/Code%20Block-808080?style=for-the-badge"><ul>
-  <li> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=fff"></li>
-  <li> <img src="https://img.shields.io/badge/C++-0059CC?style=flat-square&logo=c%2B%2B&logoColor=fff"></li>
-</ul>
-<img src="https://img.shields.io/badge/IntelliJ%20idea-000000?style=for-the-badge&logo=IntelliJ%20idea"><ul>
-  <li> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=fff"></li>
-</ul>
-<img src="https://img.shields.io/badge/Notepad-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=000""><ul>
-  <li> <img src="https://img.shields.io/badge/Others-808080?style=flat-square"></li>
-</ul>-->
 
 ### Content Us
 **You should know that spamming will make the email dangerous! ^^**<br/>
