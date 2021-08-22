@@ -4,8 +4,7 @@
   <b>I'm a programmer.</b>
 </p>
 
-### Introduce
-Hi there 👋<br/>
+**Hi there 👋**<br/>
 I am an high school student who does various types of programming
 
 * Android Application Developer
