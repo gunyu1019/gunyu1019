@@ -37,6 +37,8 @@ And, I can do
 * [Python Module: DBSkr](https://github.com/gunyu1019/DBSkr-py)
 * [Python Module: PUBGpy](https://github.com/gunyu1019/PUBGpy)
 * [Python Module: Korean-School-py](https://github.com/gunyu1019/korean_school_py)
+* [Minecraft Bukkit Plugins: wild-discordmc (Supported)](https://github.com/gunyu1019/wild-discordmc)
+* [AI: NUGU 학교알리미](https://github.com/gunyu1019/NUGU_school) // Delay
 
 ### Comming Soon (2021 Second half of the year)
 * Goorm EDU lecture (Collaboration: [@SamsungHappyTree](https://github.com/samsunghappytree123))
@@ -45,6 +47,9 @@ And, I can do
 * [Minecraft Bukkit Plugins: BattleRoyal](https://github.com/gunyu1019/BattleRoyal)
 * [Android Application (Support WearOS): Check-In](https://github.com/gunyu1019/Check-In)
 * Android Application: Project TODO // Delay
+
+### Comming Soon (Undetermined)
+?
 
 ### Content Us
 <a href="mailto:gunyu1019@gmail.com">
