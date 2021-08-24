@@ -31,6 +31,20 @@ And, I can do
 * Node.js (novice)
 * PHP (novice)
 
+### My Project (2021 First half of the year)
+* [Discord BOT: PUBG BOT - v2.0](https://github.com/gunyu1019/PUBG-BOT)
+* [Discord BOT: YBOT - 6th Remake](https://github.com/gunyu1019/YBOT)
+* [Python Module: DBSkr](https://github.com/gunyu1019/DBSkr-py)
+* [Python Module: PUBGpy](https://github.com/gunyu1019/PUBGpy)
+* [Python Module: Korean-School-py](https://github.com/gunyu1019/korean_school_py)
+
+### Comming Soon (2021 Second half of the year)
+* Goorm EDU lecture (Collaboration: [@SamsungHappyTree](https://github.com/samsunghappytree123))
+* [Discord BOT: Project MBOT(Metarix)](https://github.com/gunyu1019/MBOT)
+* Discord BOT: Project 3rd-bots (Riot-BOT / R6BOT) // Delay
+* [Minecraft Bukkit Plugins: BattleRoyal](https://github.com/gunyu1019/BattleRoyal)
+* [Android Application (Support WearOS): Check-In](https://github.com/gunyu1019/Check-In)
+* Android Application: Project TODO // Delay
 
 ### Content Us
 <a href="mailto:gunyu1019@gmail.com">
