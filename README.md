@@ -39,17 +39,20 @@ And, I can do
 * [Python Module: Korean-School-py](https://github.com/gunyu1019/korean_school_py)
 * [Minecraft Bukkit Plugins: wild-discordmc (Supported)](https://github.com/gunyu1019/wild-discordmc)
 * [AI: NUGU 학교알리미](https://github.com/gunyu1019/NUGU_school) // Delay
+* [Presense: FLO](https://premid.app/store/presences/FLO)
 
 ### Comming Soon (2021 Second half of the year)
+* [Presense: Genie Music](https://premid.app/store/presences/Genie%20Music)
 * Goorm EDU lecture (Collaboration: [@SamsungHappyTree](https://github.com/samsunghappytree123))
 * [Discord BOT: Project MBOT(Metarix)](https://github.com/gunyu1019/MBOT)
 * Discord BOT: Project 3rd-bots (Riot-BOT / R6BOT) // Delay
-* [Minecraft Bukkit Plugins: BattleRoyal](https://github.com/gunyu1019/BattleRoyal)
+* [Minecraft Bukkit Plugins: BattleRoyal](https://github.com/gunyu1019/BattleRoyal) // Delay
 * [Android Application (Support WearOS): Check-In](https://github.com/gunyu1019/Check-In)
 * Android Application: Project TODO // Delay
+* [API: PUBG OpenAPI - remake](https://github.com/gunyu1019/PUBG-API)
 
 ### Comming Soon (Undetermined)
-?
+* IDK
 
 ### Content Us
 <a href="mailto:gunyu1019@gmail.com">
