@@ -54,6 +54,7 @@ And, I can do
 * [Website: YWEB - Secondry Work](https://yhs.kr)
 * ~~[Discord BOT: YBOT v3.7(Management Update)](https://yhs.kr/YBOT)~~
   <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
+
 More information is available [here](Projects.md).
 
 ### Content Us
