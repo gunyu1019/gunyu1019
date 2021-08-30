@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 * [API: PUBG OpenAPI](https://github.com/gunyu1019/PUBG-API)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
+* [Discord BOT: Music-Bot](https://github.com/gunyu1019/Music-Bot)
+  <img src="https://img.shields.io/badge/Abort-red?style?style=plastic">
 * [Website: YBOT](https://github.com/gunyu1019/YBOT-web)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 
