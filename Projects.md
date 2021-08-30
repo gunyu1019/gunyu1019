@@ -79,7 +79,7 @@
 * [API: PUBG OpenAPI - remake](https://github.com/gunyu1019/PUBG-API)
 * [Website: YWEB - Secondry Work](https://yhs.kr)
 * ~~[Discord BOT: YBOT v3.7(Management Update)](https://yhs.kr/YBOT)~~
-  <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
+  <img src="https://img.shields.io/badge/Abort-red?style?style=plastic">
 
 ### Comming Soon (Undetermined)
 * [Discord BOT: YBOT v3.7 (support Slash Command)](https://yhs.kr/YBOT)
