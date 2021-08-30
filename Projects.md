@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Abort-red?style?style=plastic">
 
 ### My Project (2020 Second half of the year)
-* [Discord BOT: YBOT - 3rd ~ 5th Remake](https://github.com/gunyu1019/YBOT)
+* [Discord BOT: YBOT - 4th ~ 5th Remake](https://github.com/gunyu1019/YBOT)
   <img src="https://img.shields.io/badge/Archive-yellow?style?style=plastic">
 * [Python Carwling lecture](https://blog.yonghyeon.com/category/%EA%B0%9C%EB%B0%9C%20%EA%B0%95%EC%A2%8C/%ED%81%AC%EB%A1%A4%EB%A7%81%20%EA%B0%95%EC%A2%8C)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
