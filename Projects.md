@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 * [Discord BOT: Music-Bot](https://github.com/gunyu1019/Music-Bot)
   <img src="https://img.shields.io/badge/Abort-red?style?style=plastic">
-* Discord BOT: Botflix
+* [Discord BOT: Botflix](https://github.com/Botflix/Botflix)
   <img src="https://img.shields.io/badge/I%20Dont%20know-gray?style?style=plastic">
 * Discord BOT: Project MBOT
   <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
