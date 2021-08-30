@@ -23,11 +23,15 @@
 * [Discord BOT: Music-Bot](https://github.com/gunyu1019/Music-Bot)
   <img src="https://img.shields.io/badge/Abort-red?style?style=plastic">
 * [Discord BOT: Botflix](https://github.com/Botflix/Botflix)
+  (Collaboration: [@Tim232](https://github.com/Tim232))
   <img src="https://img.shields.io/badge/I%20Dont%20know-gray?style?style=plastic">
 * Discord BOT: Project MBOT
   <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
 * [Website: YBOT](https://github.com/gunyu1019/YBOT-web)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
+* Website: DevHub
+ (Supported / with [@ArdanKR](https://github.com/ArdanKR), [@comjun04](https://github.com/comjun04), [@Dugom](https://github.com/dug0m))
+  <img src="https://img.shields.io/badge/Archive-yellow?style?style=plastic">
 
 ### My Project (2021 First half of the year)
 * [Discord BOT: PUBG BOT - v2.0](https://github.com/gunyu1019/PUBG-BOT)
@@ -42,9 +46,11 @@
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 * [Python Module: Korean-School-py](https://github.com/gunyu1019/korean_school_py)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
-* [Minecraft Bukkit Plugins: wild-discordmc (Supported)](https://github.com/gunyu1019/wild-discordmc)
+* [Minecraft Bukkit Plugins: wild-discordmc](https://github.com/gunyu1019/wild-discordmc) 
+  (Supported / with [@ProjectTL](https://github.com/ProjectTL12345), [@하이라이트](https://github.com/highright1234), [@NamuTree](https://github.com/NamuTree0345) , [@명이](https://github.com/myoun))
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 * [AI: NUGU 학교알리미](https://github.com/gunyu1019/NUGU_school)
+  (Feedback from SK Broadband & SK Telecom)
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
 * [Presense: FLO](https://premid.app/store/presences/FLO)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
