@@ -34,9 +34,9 @@
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 * [Discord BOT: YBOT - 6th Remake](https://github.com/gunyu1019/YBOT)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
-* [Python Module: DBSkr](https://github.com/gunyu1019/DBSkr-py)
+* [Python Module: DBSkr](https://github.com/gunyu1019/DBSkr-pytree/v1.0)
   <img src="https://img.shields.io/badge/Archive-yellow?style?style=plastic">
-* [Python Module: DBSkr - Remake](https://github.com/gunyu1019/DBSkr-py)
+* [Python Module: DBSkr - Remake](https://github.com/gunyu1019/DBSkr-pytree/v2.0)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 * [Python Module: PUBGpy](https://github.com/gunyu1019/PUBGpy)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
