@@ -49,6 +49,7 @@ And, I can do
 * Goorm EDU lecture (Collaboration: [@SamsungHappyTree](https://github.com/samsunghappytree123))
   <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
+  <img src="https://img.shields.io/badge/Change%20Plan-purple?style?style=plastic">
 * [Discord BOT: Project MBOT(Metarix)](https://github.com/gunyu1019/MBOT)
   <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
@@ -56,13 +57,14 @@ And, I can do
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
 * [Minecraft Bukkit Plugins: BattleRoyal](https://github.com/gunyu1019/BattleRoyal)
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
+  <img src="https://img.shields.io/badge/Change%20Plan-purple?style?style=plastic">
 * [Android Application (Support WearOS): Check-In](https://github.com/gunyu1019/Check-In)
   <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
 * Android Application: Project TODO 
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
 * [API: PUBG OpenAPI - remake](https://github.com/gunyu1019/PUBG-API)
 * [Website: YWEB - Secondry Work](https://yhs.kr)
-* ~~[Discord BOT: YBOT v3.7](https://yhs.kr/YBOT)~~
+* ~~[Discord BOT: YBOT v3.7(Management Update)](https://yhs.kr/YBOT)~~
   <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
 
 ### Comming Soon (Undetermined)
