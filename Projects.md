@@ -4,13 +4,21 @@
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 * [Discord BOT: YBOT - 1st ~ 3rd Remake](https://github.com/gunyu1019/YBOT)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
-* [Discord Bot - lecture](https://blog.yonghyeon.com/category/%EA%B0%9C%EB%B0%9C%20%EA%B0%95%EC%A2%8C/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C%EB%B4%87%20%EA%B0%95%EC%A2%8C)
+* [Discord BOT lecture](https://blog.yonghyeon.com/category/%EA%B0%9C%EB%B0%9C%20%EA%B0%95%EC%A2%8C/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C%EB%B4%87%20%EA%B0%95%EC%A2%8C)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
+* Discord BOT: YBOT (powered by Node.JS)
+  <img src="https://img.shields.io/badge/Abort-red?style?style=plastic">
+* KAKAOTALK BOT: YBOT
+  <img src="https://img.shields.io/badge/Abort-red?style?style=plastic">
 
 ### My Project (2020 Second half of the year)
 * [Discord BOT: YBOT - 3rd ~ 5th Remake](https://github.com/gunyu1019/YBOT)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 * [Python Carwling lecture](https://blog.yonghyeon.com/category/%EA%B0%9C%EB%B0%9C%20%EA%B0%95%EC%A2%8C/%ED%81%AC%EB%A1%A4%EB%A7%81%20%EA%B0%95%EC%A2%8C)
+  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
+* [API: PUBG OpenAPI](https://github.com/gunyu1019/PUBG-API)
+  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
+* [Website: YBOT](https://github.com/gunyu1019/YBOT-web)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 
 ### My Project (2021 First half of the year)
@@ -36,7 +44,7 @@
 ### My Project (2021 Second half of the year)
 * [Presense: Genie Music](https://premid.app/store/presences/Genie%20Music)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
-* Goorm EDU lecture (Collaboration: [@SamsungHappyTree](https://github.com/samsunghappytree123))
+* Discord BOT (Goorm EDU) lecture (Collaboration: [@SamsungHappyTree](https://github.com/samsunghappytree123))
   <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
   <img src="https://img.shields.io/badge/Change%20Plan-purple?style?style=plastic">
@@ -60,3 +68,4 @@
 ### Comming Soon (Undetermined)
 * [Discord BOT: YBOT v3.7 (support Slash Command)](https://yhs.kr/YBOT)
 * Hardware / Android Application: Smart Strongbox
+* Oauth2 Web lecture
