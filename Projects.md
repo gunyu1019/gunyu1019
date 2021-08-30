@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 * Discord BOT: YBOT (powered by Node.JS)
   <img src="https://img.shields.io/badge/Abort-red?style?style=plastic">
-* KAKAOTALK BOT: YBOT
+* KakaoTalk BOT: YBOT 3.0
   <img src="https://img.shields.io/badge/Abort-red?style?style=plastic">
 
 ### My Project (2020 Second half of the year)
