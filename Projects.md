@@ -1,9 +1,11 @@
 
 ### My Project (2020 First half of the year)
 * [Discord BOT: PUBG BOT - v1.0](https://github.com/gunyu1019/PUBG-BOT)
-  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
+  <img src="https://img.shields.io/badge/Archive-yellow?style?style=plastic">
+* [Discord BOT: YBOT](https://github.com/gunyu1019/YBOT-old)
+  <img src="https://img.shields.io/badge/Archive-yellow?style?style=plastic">
 * [Discord BOT: YBOT - 1st ~ 3rd Remake](https://github.com/gunyu1019/YBOT)
-  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
+  <img src="https://img.shields.io/badge/Archive-yellow?style?style=plastic">
 * [Discord BOT lecture](https://blog.yonghyeon.com/category/%EA%B0%9C%EB%B0%9C%20%EA%B0%95%EC%A2%8C/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C%EB%B4%87%20%EA%B0%95%EC%A2%8C)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 * Discord BOT: YBOT (powered by Node.JS)
@@ -13,7 +15,7 @@
 
 ### My Project (2020 Second half of the year)
 * [Discord BOT: YBOT - 3rd ~ 5th Remake](https://github.com/gunyu1019/YBOT)
-  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
+  <img src="https://img.shields.io/badge/Archive-yellow?style?style=plastic">
 * [Python Carwling lecture](https://blog.yonghyeon.com/category/%EA%B0%9C%EB%B0%9C%20%EA%B0%95%EC%A2%8C/%ED%81%AC%EB%A1%A4%EB%A7%81%20%EA%B0%95%EC%A2%8C)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 * [API: PUBG OpenAPI](https://github.com/gunyu1019/PUBG-API)
