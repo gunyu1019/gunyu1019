@@ -57,6 +57,9 @@
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 * [Website: YWEB](https://yhs.kr)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
+* [Discord Components lecture](https://blog.yonghyeon.com/category/%EA%B0%9C%EB%B0%9C%20%EA%B0%95%EC%A2%8C/%EA%B8%B0%ED%83%80%20%EA%B0%95%EC%A2%8C)
+  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
+  <img src="https://img.shields.io/badge/Change%20Plan-purple?style?style=plastic">
 
 ### My Project (2021 Second half of the year)
 * [Presense: Genie Music](https://premid.app/store/presences/Genie%20Music)
