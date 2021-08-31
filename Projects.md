@@ -100,6 +100,6 @@
 * <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic"> : 프로젝트 중단 (계획 단계)
 
 ## Reason for Abort [중단 사유]
-* **2020. 5. 28 - 6.1 / 2020. 6. 30:** 외부 세력으로 부터 직접적인 공격 (메인용-서버 / 데이터베이스 서버 피해)
+* **2020. 5. 28 - 6.1 / 2020. 6. 30:** 외부 세력으로 부터 직접적인 공격 (메인용 서버 / 데이터베이스 서버 피해)
 * **2021. 2. 29:** 개발연합팀 Team U◎◎◎◎ 과의 내부 분쟁
 * **2021. 8. 28:** [discord.py](https://github.com/Rapptz/discord.py) 개발 중단에 따른 긴급 프로젝트 계획 변경 
