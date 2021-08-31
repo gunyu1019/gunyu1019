@@ -85,7 +85,7 @@
 * Hardware / Android Application: Smart Strongbox
 * Oauth2 Web lecture
 
-## 비고
+## Notes [비고]
 * <img src="https://img.shields.io/badge/Release-blue?style?style=plastic"> : 배포 중 / 운영 중
 * <img src="https://img.shields.io/badge/Process-green?style?style=plastic"> : 작업 중
 * <img src="https://img.shields.io/badge/Archive-yellow?style?style=plastic"> : 운영 중단 / 프로젝트 계승
@@ -93,3 +93,8 @@
 * <img src="https://img.shields.io/badge/Change%20Plan-purple?style?style=plastic"> : 계획 변경
 * <img src="https://img.shields.io/badge/Abort-red?style?style=plastic"> : 프로젝트 중단 (작업 단계)
 * <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic"> : 프로젝트 중단 (계획 단계)
+
+## Reason for Abort [중단 사유]
+* **2020. 5. 28 - 6.1 / 2020. 6. 30:** 외부 세력으로 부터 직접적인 공격 (두 차례 공격)
+* **2021. 2. 29:** 개발연합팀 Team U◎◎◎◎ 과의 내부 분쟁
+* **2021. 8. 28:** [discord.py](https://github.com/Rapptz/discord.py) 개발 중단에 따른 긴급 프로젝트 계획 변경 
