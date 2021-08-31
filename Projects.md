@@ -1,4 +1,3 @@
-
 ### My Project (2020 First half of the year)
 * [Discord BOT: PUBG BOT - v1.0](https://github.com/gunyu1019/PUBG-BOT)
   <img src="https://img.shields.io/badge/Archive-yellow?style?style=plastic">
@@ -24,7 +23,7 @@
   <img src="https://img.shields.io/badge/Abort-red?style?style=plastic">
 * [Discord BOT: Botflix](https://github.com/Botflix/Botflix)
   (Collaboration: [@Tim232](https://github.com/Tim232))
-  <img src="https://img.shields.io/badge/I%20Dont%20know-gray?style?style=plastic">
+  <img src="https://img.shields.io/badge/Abort-red?style?style=plastic">
 * Discord BOT: Project MBOT
   <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
 * [Website: YBOT](https://github.com/gunyu1019/YBOT-web)
@@ -85,3 +84,12 @@
 * [Discord BOT: YBOT v3.7 (support Slash Command)](https://yhs.kr/YBOT)
 * Hardware / Android Application: Smart Strongbox
 * Oauth2 Web lecture
+
+## 비고
+* <img src="https://img.shields.io/badge/Release-blue?style?style=plastic"> : 배포 중 / 운영 중
+* <img src="https://img.shields.io/badge/Process-green?style?style=plastic"> : 작업 중
+* <img src="https://img.shields.io/badge/Archive-yellow?style?style=plastic"> : 운영 중단 / 프로젝트 계승
+* <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic"> : 작업 지연
+* <img src="https://img.shields.io/badge/Change%20Plan-purple?style?style=plastic"> : 계획 변경
+* <img src="https://img.shields.io/badge/Abort-red?style?style=plastic"> : 프로젝트 중단 (작업 단계)
+* <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic"> : 프로젝트 중단 (계획 단계)
