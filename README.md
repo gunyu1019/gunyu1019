@@ -42,7 +42,7 @@ And, I can do
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
   <img src="https://img.shields.io/badge/Change%20Plan-purple?style?style=plastic">
 * [Discord BOT: Project MBOT(Metarix)](https://github.com/gunyu1019/MBOT)
-  <img src="https://img.shields.io/badge/Release(Pre-AT)-blue?style?style=plastic">
+  <img src="https://img.shields.io/badge/Release(Pre%20AT)-blue?style?style=plastic">
   <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
 * Discord BOT: Project 3rd-bots (Riot-BOT / R6BOT)
