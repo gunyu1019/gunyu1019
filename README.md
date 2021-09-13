@@ -50,7 +50,7 @@ And, I can do
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
   <img src="https://img.shields.io/badge/Change%20Plan-purple?style?style=plastic">
 * [Android Application (Support WearOS): Check-In](https://github.com/gunyu1019/Check-In)
-  <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
+  <img src="https://img.shields.io/badge/Release(CBT)-blue?style?style=plastic">
 * Android Application: Project TODO 
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
 * [API: PUBG OpenAPI - remake](https://github.com/gunyu1019/PUBG-API)
