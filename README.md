@@ -51,7 +51,7 @@ And, I can do
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
   <img src="https://img.shields.io/badge/Change%20Plan-purple?style?style=plastic">
 * [Android Application (Support WearOS): QRpass](https://github.com/gunyu1019/QRpass)
-  <img src="https://img.shields.io/badge/Release(BT)-blue?style?style=plastic">
+  <img src="https://img.shields.io/badge/Release(CBT)-blue?style?style=plastic">
   <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
 * Android Application: Project TODO 
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
