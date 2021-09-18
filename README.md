@@ -50,8 +50,9 @@ And, I can do
 * [Minecraft Bukkit Plugins: BattleRoyal](https://github.com/gunyu1019/BattleRoyal)
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
   <img src="https://img.shields.io/badge/Change%20Plan-purple?style?style=plastic">
-* [Android Application (Support WearOS): QRpass](https://github.com/gunyu1019/QRpass)
+* [Android Application(Support WearOS): QRpass](https://github.com/gunyu1019/QRpass)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
+* Android Application(WearOS): Corona19
 * Android Application: Project TODO 
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
 * [API: PUBG OpenAPI - remake](https://github.com/gunyu1019/PUBG-API)
