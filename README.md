@@ -52,7 +52,8 @@ And, I can do
   <img src="https://img.shields.io/badge/Change%20Plan-purple?style?style=plastic">
 * [Android Application(Support WearOS): QRpass](https://github.com/gunyu1019/QRpass)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
-* Android Application(WearOS): Corona19
+* [Android Application(WearOS): Corona19](https://github.com/gunyu1019/covid19-wear)
+* Android Application(WearOS): Vcoin (Project: CatCoin)
 * Android Application: Project TODO 
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
 * [API: PUBG OpenAPI - remake](https://github.com/gunyu1019/PUBG-API)
