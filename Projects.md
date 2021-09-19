@@ -64,11 +64,12 @@
 ### My Project (2021 Second half of the year)
 * [Presense: Genie Music](https://premid.app/store/presences/Genie%20Music)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
-* Discord BOT (Goorm EDU) lecture (Collaboration: [@SamsungHappyTree](https://github.com/samsunghappytree123))
+* Goorm EDU lecture (Collaboration: [@SamsungHappyTree](https://github.com/samsunghappytree123))
   <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
   <img src="https://img.shields.io/badge/Change%20Plan-purple?style?style=plastic">
 * [Discord BOT: Project MBOT(Metarix)](https://github.com/gunyu1019/MBOT)
+  <img src="https://img.shields.io/badge/Release(CBT)-blue?style?style=plastic">
   <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
 * Discord BOT: Project 3rd-bots (Riot-BOT / R6BOT)
@@ -76,14 +77,16 @@
 * [Minecraft Bukkit Plugins: BattleRoyal](https://github.com/gunyu1019/BattleRoyal)
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
   <img src="https://img.shields.io/badge/Change%20Plan-purple?style?style=plastic">
-* [Android Application (Support WearOS): Check-In](https://github.com/gunyu1019/Check-In)
-  <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
+* [Android Application(Support WearOS): QRpass](https://github.com/gunyu1019/QRpass)
+  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
+* [Android Application(WearOS): Corona19](https://github.com/gunyu1019/covid19-wear)
+* Android Application(WearOS): Vcoin (Project: CatCoin)
 * Android Application: Project TODO 
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
 * [API: PUBG OpenAPI - remake](https://github.com/gunyu1019/PUBG-API)
 * [Website: YWEB - Secondry Work](https://yhs.kr)
 * ~~[Discord BOT: YBOT v3.7(Management Update)](https://yhs.kr/YBOT)~~
-  <img src="https://img.shields.io/badge/Abort-red?style?style=plastic">
+  <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
 
 ### Comming Soon (Undetermined)
 * [Discord BOT: YBOT v3.7 (support Slash Command)](https://yhs.kr/YBOT)
