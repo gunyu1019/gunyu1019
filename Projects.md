@@ -87,11 +87,15 @@
 * [Website: YWEB - Secondry Work](https://yhs.kr)
 * ~~[Discord BOT: YBOT v3.7(Management Update)](https://yhs.kr/YBOT)~~
   <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
+* [Discord BOT: YBOT v4](https://yhs.kr/YBOT)
 
 ### Comming Soon (Undetermined)
-* [Discord BOT: YBOT v3.7 (support Slash Command)](https://yhs.kr/YBOT)
+* ~~[Discord BOT: YBOT v3.7 (support Slash Command)](https://yhs.kr/YBOT)~~
+  <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
 * Hardware / Android Application: Smart Strongbox
 * Oauth2 Web lecture
+* Dpy-cog-extension-module
+* Discord Bot Game Virtual Country
 
 ## Notes [비고]
 * <img src="https://img.shields.io/badge/Release-blue?style?style=plastic"> : 배포 중 / 운영 중
