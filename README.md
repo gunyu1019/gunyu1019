@@ -62,6 +62,9 @@ And, I can do
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
 * [API: PUBG OpenAPI - remake](https://github.com/gunyu1019/PUBG-API)
 * [Website: YWEB - Secondry Work](https://yhs.kr)
+* Discord BOT: YBOT v4
+  * Python Module: discord-extension-cog
+  * Discord BOT: Music Bot (remake)
 * ~~[Discord BOT: YBOT v3.7(Management Update)](https://yhs.kr/YBOT)~~
   <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
 
