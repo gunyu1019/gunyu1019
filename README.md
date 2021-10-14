@@ -50,8 +50,8 @@ I am an high school student who does various types of programming
             <td>
              <ul>
                <li>RaspbarryPi</li>
-               <li>Digital Ocean</li>
-               <li>Google Cloud</li>
+               <li><a href="https://www.digitalocean.com/">Digital Ocean</a></li>
+               <li><a href="https://cloud.google.com/">Google Cloud Platform</a></li>
                <li>Git</li>
                <li>MariaDB</li>
                <li>Linux</li>
