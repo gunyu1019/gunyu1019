@@ -19,56 +19,66 @@ I am an high school student who does various types of programming
   <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=gunyu1019&badges=2&branding=false" width="500px" />
 </a>
 
-### Languages
+### Languages & Platform
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gunyu1019&theme=tokyonight&layout=compact)<br/>
-> 나는 내가 프로그래밍을 잘-못해도 그것으로 충분하다고 생각합니다! <br/>
-> 프로그래밍이란것은 의지만 있어도 모든 것을 창조할 수 있는 곳 입니다.<br/>
 > I think that's enough even if I'm not good at programming!<br/>
 > Programming is a place where you can create everything with will.<br/>
-> 
-My main programming language is **Python 3**. My sub-programming language is **Kotlin**.<br/>
-And, I can do
-* MySQL & MariaDB
-* C & C++
-* JavaScript & TypeScript (novice)
-* Node.js (novice)
-* PHP (novice)
 
-### My Project (2021 Second half of the year)
-* [Presense: Genie Music](https://premid.app/store/presences/Genie%20Music)
-  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
-* Goorm EDU lecture (Collaboration: [@SamsungHappyTree](https://github.com/samsunghappytree123))
-  <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
-  <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
-  <img src="https://img.shields.io/badge/Change%20Plan-purple?style?style=plastic">
-* [Discord BOT: Project MBOT(Metarix)](https://github.com/gunyu1019/MBOT)
-  <img src="https://img.shields.io/badge/Release(CBT)-blue?style?style=plastic">
-  <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
-  <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
-* Discord BOT: Project 3rd-bots
-  <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
-  * Hypixel-Bot
-  * Riot-Bot
-  * R6-Bot
-* [Minecraft Bukkit Plugins: BattleRoyal](https://github.com/gunyu1019/BattleRoyal)
-  <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
-  <img src="https://img.shields.io/badge/Change%20Plan-purple?style?style=plastic">
-* [Android Application(Support WearOS): QRpass](https://github.com/gunyu1019/QRpass)
-  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
-* [Android Application(WearOS): Corona19](https://github.com/gunyu1019/covid19-wear)
-  <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
-* Android Application(WearOS): Vcoin (Project: CatCoin)
-* Android Application: Project TODO 
-  <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
-* [API: PUBG OpenAPI - remake](https://github.com/gunyu1019/PUBG-API)
-* [Website: YWEB - Secondry Work](https://yhs.kr)
-* Discord BOT: YBOT v4
-  * Python Module: discord-extension-cog
-  * Discord BOT: Music Bot (remake)
-* ~~[Discord BOT: YBOT v3.7(Management Update)](https://yhs.kr/YBOT)~~
-  <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
+<table>
+    <thead>
+        <tr>
+          <th>Language</th>
+          <th>Platform</th>
+          <th>IDE & Editor</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+           <td>
+             <ul>
+               <li><b>Python 3</b></li>
+               <li><b>Kotlin</b></li>
+               <li>SQL</li>
+               <li>C</li>
+               <li>C ++</li>
+               <li>JavaScript</li>
+               <li>TypeScript</li>
+               <li>node.js</li>
+               <li>PHP</li>
+             </ul> 
+           </td>
+            <td>
+             <ul>
+               <li>RaspbarryPi</li>
+               <li>Digital Ocean</li>
+               <li>Google Cloud</li>
+               <li>Git</li>
+               <li>MariaDB</li>
+               <li>Linux</li>
+             </ul> 
+          </td>
+          <td>
+             <ul>
+               <li><b>IntelliJ IDEA Ultimate</b></li>
+               <li><b>PyCharm Professional</b></li>
+               <li><b>WebStorm</b></li>
+               <li><b>DataGrip</b></li>
+               <li><b>Android Studio</b></li>
+               <li>CodeBlock</li>
+               <li>NotePad++</li>
+               <li>Visual Studio Code</li>
+               <li>PhpStorm</li>
+             </ul> 
+          </td>
+        </tr>
+      <tr>
+        <td colspan='3'>These <b>bold</b> texts are the ones I often use.</td>
+      </tr>
+    </tbody>
+</table>
 
-More information is available [here](Projects.md).
+### My Project
+My Project information is available [here](projects.md).
 
 ### Content Us
 <a href="mailto:gunyu1019@gmail.com">
