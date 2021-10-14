@@ -49,15 +49,32 @@ I am an high school student who does various types of programming
            </td>
             <td>
              <ul>
-               <li><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" height="20px" align="center"> RaspbarryPi</li>
-               <li><img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" height="20px" align="center"> <a href="https://www.digitalocean.com/">Digital Ocean</a></li>
-               <li><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" height="20px" align="center"> <a href="https://cloud.google.com/">Google Cloud Platform</a></li>
-               <li><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="20px" align="center"> Git</li>
-               <li>MariaDB</li>
-               <li>Goorm</li>
-               <li><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" height="20px" align="center"> Nginx</li>
-               <li><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="20px" align="center"> Linux</li>
-               <li><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="20px" align="center"> <strike><a href="https://firebase.google.com/">Firebase</a></strike></li>
+               <li>
+                 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" height="20px" align="center"> <a href="https://raspberrypi.org/">RaspbarryPi</a>
+               </li>
+               <li>
+                 <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" height="20px" align="center"> <a href="https://www.digitalocean.com/">Digital Ocean</a>
+               </li>
+               <li>
+                 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" height="20px" align="center"> <a href="https://cloud.google.com/">Google Cloud Platform</a>
+               </li>
+               <li>
+                 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="20px" align="center"> Git</li>
+               <li>
+                 <a href="https://mariadb.org/">MariaDB</a>
+               </li>
+               <li>
+                 <a href="https://goorm.io/">Goorm</a>
+               </li>
+               <li>
+                 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" height="20px" align="center"> <a href="https://www.nginx.com/">Nginx</a>
+               </li>
+               <li>
+                 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="20px" align="center"> Linux
+               </li>
+               <li>
+                 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="20px" align="center"> <strike><a href="https://firebase.google.com/">Firebase</a></strike>
+               </li>
              </ul> 
           </td>
           <td>
