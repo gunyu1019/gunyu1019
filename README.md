@@ -36,27 +36,28 @@ I am an high school student who does various types of programming
         <tr>
            <td>
              <ul>
-               <li><b>Python 3</b></li>
-               <li><b>Kotlin</b></li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="20px" align="center"> <b>Python 3</b></li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="20px" align="center"> <b>Kotlin</b></li>
                <li>SQL</li>
-               <li>C</li>
-               <li>C ++</li>
-               <li>JavaScript</li>
-               <li>TypeScript</li>
-               <li>node.js</li>
-               <li>PHP</li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="20px" align="center">C</li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="20px" align="center"> C++</li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="20px" align="center"> JavaScript</li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="20px" align="center"> TypeScript</li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="20px" align="center"> node.js</li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="20px" align="center"> PHP</li>
              </ul> 
            </td>
             <td>
              <ul>
-               <li>RaspbarryPi</li>
-               <li><a href="https://www.digitalocean.com/">Digital Ocean</a></li>
-               <li><a href="https://cloud.google.com/">Google Cloud Platform</a></li>
-               <li>Git</li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" height="20px" align="center"> RaspbarryPi</li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" height="20px" align="center"> <a href="https://www.digitalocean.com/">Digital Ocean</a></li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" height="20px" align="center"> <a href="https://cloud.google.com/">Google Cloud Platform</a></li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="20px" align="center"> Git</li>
                <li>MariaDB</li>
                <li>Goorm</li>
-               <li>Linux</li>
-               <li>Windows</li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" height="20px" align="center"> Nginx</li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="20px" align="center"> Linux</li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="20px" align="center"> <strike><a href="https://firebase.google.com/">Firebase</a></strike></li>
              </ul> 
           </td>
           <td>
