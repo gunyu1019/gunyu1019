@@ -103,10 +103,10 @@ My Project information is available [here](projects.md).
 ### Content Us
 <ul>
   <li><a href="mailto:gunyu1019@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-gunyu1019@gmail.com-0080aa?style=for-the-badge&logo=gmail">
+    Personal GMail: gunyu1019@gmail.com
   </a></li><li><a href="mailto:gunyu1019@yhs.kr">
-    <img src="https://img.shields.io/badge/Main%20Mail-gunyu1019@yhs.kr-0080aa?style=for-the-badge">
+    Main Mail: gunyu1019@yhs.kr
   </a></li><li><a href="mailto:gunyu1019@icmp.kr">
-    <img src="https://img.shields.io/badge/Team%20Mail(Cailco%20Cheese)-gunyu1019@icmp.kr-0080aa?style=for-the-badge">
+    Team Mail(Cailco Cheese): gunyu1019@icmp.kr
   </a></li>
 </ul>
