@@ -54,7 +54,9 @@ I am an high school student who does various types of programming
                <li><a href="https://cloud.google.com/">Google Cloud Platform</a></li>
                <li>Git</li>
                <li>MariaDB</li>
+               <li>Goorm</li>
                <li>Linux</li>
+               <li>Windows</li>
              </ul> 
           </td>
           <td>
