@@ -101,10 +101,12 @@ I am an high school student who does various types of programming
 My Project information is available [here](projects.md).
 
 ### Content Us
-<a href="mailto:gunyu1019@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-gunyu1019@gmail.com-0080aa?style=for-the-badge&logo=gmail">
-</a><a href="mailto:gunyu1019@yhs.kr">
-  <img src="https://img.shields.io/badge/Main%20Mail-gunyu1019@yhs.kr-0080aa?style=for-the-badge">
-</a><a href="mailto:gunyu1019@icmp.kr">
-  <img src="https://img.shields.io/badge/Team%20Mail(Cailco%20Cheese)-gunyu1019@icmp.kr-0080aa?style=for-the-badge">
-</a>
+<ul>
+  <li><a href="mailto:gunyu1019@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-gunyu1019@gmail.com-0080aa?style=for-the-badge&logo=gmail">
+  </a></li><li><a href="mailto:gunyu1019@yhs.kr">
+    <img src="https://img.shields.io/badge/Main%20Mail-gunyu1019@yhs.kr-0080aa?style=for-the-badge">
+  </a></li><li><a href="mailto:gunyu1019@icmp.kr">
+    <img src="https://img.shields.io/badge/Team%20Mail(Cailco%20Cheese)-gunyu1019@icmp.kr-0080aa?style=for-the-badge">
+  </a></li>
+</ul>
