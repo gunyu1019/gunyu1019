@@ -103,11 +103,11 @@ My Project information is available [here](projects.md).
 ### Content Us
 <ul>
   <li><a href="mailto:gunyu1019@gmail.com">
-    Personal GMail: gunyu1019@gmail.com
+    Personal Gmail: gunyu1019@gmail.com
   </a></li><li><a href="mailto:gunyu1019@yhs.kr">
-    Main Mail: gunyu1019@yhs.kr
+    Main mail: gunyu1019@yhs.kr
   </a></li><li><a href="mailto:gunyu1019@icmp.kr">
-    Team Mail(Cailco Cheese): gunyu1019@icmp.kr
+    Team mail(Cailco Cheese): gunyu1019@icmp.kr
   </a></li>
 </ul>
 
@@ -115,7 +115,7 @@ My Project information is available [here](projects.md).
 <ul>
   <li><a href="https://www.patreon.com/gunyu1019">
     Patreon
-  </a></li><li><a href="https://toss.im/gunyu1019">
+  </a></li><li><a href="https://toss.me/gunyu1019">
     Toss
   </a></li><li><a href="https://www.buymeacoffee.com/gunyu1019">
     Buy Me A Coffee
