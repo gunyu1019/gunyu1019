@@ -113,11 +113,13 @@ My Project information is available [here](projects.md).
 
 ### Donate
 <ul>
-  <li><a href="https://www.patreon.com/gunyu1019">
-    Patreon
-  </a></li><li><a href="https://toss.me/gunyu1019">
-    Toss
-  </a></li><li><a href="https://www.buymeacoffee.com/gunyu1019">
-    Buy Me A Coffee
-  </a></li>
+  <li>
+    <a href="https://www.patreon.com/gunyu1019">Patreon</a>
+  </li>
+  <li>
+    <a href="https://toss.me/gunyu1019">Toss</a>
+  </li>
+  <li>
+    <a href="https://www.buymeacoffee.com/gunyu1019">Buy Me A Coffee</a>
+  </li>
 </ul>
