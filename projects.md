@@ -81,22 +81,22 @@
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 * [Android Application(WearOS): Corona19](https://github.com/gunyu1019/covid19-wear)
 * Android Application(WearOS): Vcoin (Project: CatCoin)
-* Android Application: Project TODO 
-  <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
 * [API: PUBG OpenAPI - remake](https://github.com/gunyu1019/PUBG-API)
 * [Website: YWEB - Secondry Work](https://github.com/gunyu1019/Yweb)
   <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
 * ~~[Discord BOT: YBOT v3.7(Management Update)](https://yhs.kr/YBOT)~~
   <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
 * [Discord BOT: YBOT v4](https://yhs.kr/YBOT)
+* Python Module: Discord-cog-extension
+* Website: A hidden project for ENCE (^_^ | IDK)
 
 ### Comming Soon (Undetermined)
 * ~~[Discord BOT: YBOT v3.7 (support Slash Command)](https://yhs.kr/YBOT)~~
   <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
 * Hardware / Android Application: Smart Strongbox
 * Oauth2 Web lecture
-* Dpy-cog-extension-module
 * Discord Bot Game Virtual Country
+* Android Application: Project TODO 
 
 ## Notes [비고]
 * <img src="https://img.shields.io/badge/Release-blue?style?style=plastic"> : 배포 중 / 운영 중
