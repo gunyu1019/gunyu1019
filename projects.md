@@ -89,6 +89,7 @@
 * [Discord BOT: YBOT v4](https://yhs.kr/YBOT)
 * Python Module: Discord-cog-extension
 * Website: A hidden project for ENCE (^_^ | IDK)
+  <img src="https://img.shields.io/badge/Release(CBT)-blue?style?style=plastic">
 
 ### Comming Soon (Undetermined)
 * ~~[Discord BOT: YBOT v3.7 (support Slash Command)](https://yhs.kr/YBOT)~~
