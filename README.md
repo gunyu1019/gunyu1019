@@ -15,10 +15,13 @@ I am an high school student who does various types of programming
 * etc (I'll try everything I want.)
 
 ![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=gunyu1019&theme=onedark)
-![gunyu1019's github Status](https://github-readme-stats.vercel.app/api?username=gunyu1019&count_private=true&show_icons=true&theme=tokyonight)
-<a href="https://profile.codersrank.io/user/gunyu1019/">
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=gunyu1019&badges=2&branding=false" width="500px" />
-</a>
+
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gunyu1019&count_private=true&show_icons=true&theme=tokyonight" width="45%" />
+  <a href="https://profile.codersrank.io/user/gunyu1019/">
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=gunyu1019&badges=2&branding=false" width="45%" />
+  </a>
+</div>
 
 ### Languages & Platform
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gunyu1019&theme=tokyonight&layout=compact)<br/>
