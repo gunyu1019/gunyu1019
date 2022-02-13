@@ -14,6 +14,7 @@ I am an high school student who does various types of programming
 * Python Module Developer
 * etc (I'll try everything I want.)
 
+![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=gunyu1019&theme=onedark)
 ![gunyu1019's github Status](https://github-readme-stats.vercel.app/api?username=gunyu1019&count_private=true&show_icons=true&theme=tokyonight)
 <a href="https://profile.codersrank.io/user/gunyu1019/">
   <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=gunyu1019&badges=2&branding=false" width="500px" />
