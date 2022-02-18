@@ -85,9 +85,9 @@
   <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
 * [Discord BOT: YBOT v4](https://yhs.kr/YBOT)
   <img src="https://img.shields.io/badge/Release(CBT)-blue?style?style=plastic">
-* Python Module: Discord-cog-extension
+* [Python Module: Discord-cog-extension](https://github.com/gunyu1019/discord-extension-interaction)
   <img src="https://img.shields.io/badge/Release(OBT)-blue?style?style=plastic">
-* Website: A hidden project for ENCE (^_^ | IDK)
+* [Website: A hidden project for ENCE (^_^ | IDK)](https://support.hkdev.xyz)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
   
 ### My Project (2022 First half of the year)
