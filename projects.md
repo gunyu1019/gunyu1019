@@ -72,28 +72,31 @@
   <img src="https://img.shields.io/badge/Release(CBT)-blue?style?style=plastic">
   <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
-* Discord BOT: Project 3rd-bots (Riot-BOT / R6BOT)
-  <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
-* [Minecraft Bukkit Plugins: BattleRoyal](https://github.com/gunyu1019/BattleRoyal)
-  <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
-  <img src="https://img.shields.io/badge/Change%20Plan-purple?style?style=plastic">
 * [Android Application(Support WearOS): QRpass](https://github.com/gunyu1019/QRpass)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
-* [Android Application(WearOS): Corona19](https://github.com/gunyu1019/covid19-wear)
-* Android Application(WearOS): Vcoin (Project: CatCoin)
+* ~~[Android Application(WearOS): Corona19](https://github.com/gunyu1019/covid19-wear)~~
+  <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
+* ~~Android Application(WearOS): Vcoin (Project: CatCoin)~~
+  <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
 * [API: PUBG OpenAPI - remake](https://github.com/gunyu1019/PUBG-API)
 * [Website: YWEB - Secondry Work](https://github.com/gunyu1019/Yweb)
   <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
 * ~~[Discord BOT: YBOT v3.7(Management Update)](https://yhs.kr/YBOT)~~
   <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
 * [Discord BOT: YBOT v4](https://yhs.kr/YBOT)
-* Python Module: Discord-cog-extension
-* Website: A hidden project for ENCE (^_^ | IDK)
   <img src="https://img.shields.io/badge/Release(CBT)-blue?style?style=plastic">
+* Python Module: Discord-cog-extension
+  <img src="https://img.shields.io/badge/Release(OBT)-blue?style?style=plastic">
+* Website: A hidden project for ENCE (^_^ | IDK)
+  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
+  
+### My Project (2022 First half of the year)
+* Muiti-Platform: MySchool
 
 ### Comming Soon (Undetermined)
 * ~~[Discord BOT: YBOT v3.7 (support Slash Command)](https://yhs.kr/YBOT)~~
   <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
+* [Minecraft Bukkit Plugins: BattleRoyal](https://github.com/gunyu1019/BattleRoyal)
 * Hardware / Android Application: Smart Strongbox
 * Oauth2 Web lecture
 * Discord Bot Game Virtual Country
