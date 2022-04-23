@@ -93,8 +93,6 @@
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 * [API: Traffic API](https://github.com/gunyu1019/trafficAPI)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
-* [API: Traffic API](https://github.com/gunyu1019/trafficAPI)
-  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 
 ### Comming Soon (Undetermined)
 * [Minecraft Bukkit Plugins: BattleRoyal](https://github.com/gunyu1019/BattleRoyal)
