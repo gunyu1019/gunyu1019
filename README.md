@@ -7,13 +7,6 @@
 **Hi there 👋**<br/>
 I am an high school student who does various types of programming
 
-* Android Application Developer
-* Minecraft Bukkit Plugin Developer
-* Website Full-stack(Python) Developer
-* Discord Bot Developer(Validated from discord)
-* Python Module Developer
-* etc (I'll try everything I want.)
-
 ![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=gunyu1019&theme=onedark)
 
 <div style="display: flex;">
@@ -32,7 +25,7 @@ I am an high school student who does various types of programming
     <thead>
         <tr>
           <th>Language</th>
-          <th>Platform & System</th>
+          <th>Developing</th>
           <th>IDE & Editor</th>
         </tr>
     </thead>
@@ -53,32 +46,11 @@ I am an high school student who does various types of programming
            </td>
             <td>
              <ul>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" height="20px" align="center"> <a href="https://raspberrypi.org/">RaspbarryPi</a>
-               </li>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" height="20px" align="center"> <a href="https://www.digitalocean.com/">Digital Ocean</a>
-               </li>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" height="20px" align="center"> <a href="https://cloud.google.com/">Google Cloud Platform</a>
-               </li>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="20px" align="center"> Git</li>
-               <li>
-                 <a href="https://mariadb.org/">MariaDB</a>
-               </li>
-               <li>
-                 <a href="https://goorm.io/">Goorm</a>
-               </li>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" height="20px" align="center"> <a href="https://www.nginx.com/">Nginx</a>
-               </li>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="20px" align="center"> Linux
-               </li>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="20px" align="center"> <strike><a href="https://firebase.google.com/">Firebase</a></strike>
-               </li>
+               <li><b>Android Application<br/>(and WearOS Application)</b></li>
+               <li><b>Discord Bot</b></li>
+               <li>Minecraft Plugin (Bukkit)</li>
+               <li>Python Module</li>
+               <li><b>Website</b></li>
              </ul> 
           </td>
           <td>
