@@ -64,18 +64,16 @@
 ### My Project (2021 Second half of the year)
 * [Presense: Genie Music](https://premid.app/store/presences/Genie%20Music)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
-* Goorm EDU lecture (Collaboration: [@SamsungHappyTree](https://github.com/samsunghappytree123))
-  <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
-  <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
-  <img src="https://img.shields.io/badge/Change%20Plan-purple?style?style=plastic">
+* ~~Goorm EDU lecture~~ (Collaboration: [@SamsungHappyTree](https://github.com/samsunghappytree123))
+  <img src="https://img.shields.io/badge/Abort-red?style?style=plastic">
 * [Discord BOT: Project MBOT(Metarix)](https://github.com/gunyu1019/MBOT)
   <img src="https://img.shields.io/badge/Release(CBT)-blue?style?style=plastic">
   <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
   <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic">
 * [Android Application(Support WearOS): QRpass](https://github.com/gunyu1019/QRpass)
-  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
-* ~~[Android Application(WearOS): Corona19](https://github.com/gunyu1019/covid19-wear)~~
-  <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
+  <img src="https://img.shields.io/badge/Archive-yellow?style?style=plastic">
+* [Android Application(WearOS): Corona19](https://github.com/gunyu1019/covid19-wear)
+  <img src="https://img.shields.io/badge/Not%20Release-blue?style?style=plastic">
 * ~~Android Application(WearOS): Vcoin (Project: CatCoin)~~
   <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
 * [API: PUBG OpenAPI - remake](https://github.com/gunyu1019/PUBG-API)
@@ -87,11 +85,15 @@
   <img src="https://img.shields.io/badge/Release(CBT)-blue?style?style=plastic">
 * [Python Module: Discord-cog-extension](https://github.com/gunyu1019/discord-extension-interaction)
   <img src="https://img.shields.io/badge/Release(OBT)-blue?style?style=plastic">
-* [Website: A hidden project for ENCE (^_^ | IDK)](https://support.hkdev.xyz)
+* [Website: HKDev Support Website](https://support.hkdev.xyz)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
   
 ### My Project (2022 First half of the year)
 * Muiti-Platform: MySchool
+* [Android Application: Traffic(MyBUS)](https://github.com/gunyu1019/trafficApplication)
+  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
+* [API: Traffic API](https://github.com/gunyu1019/trafficAPI)
+  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 
 ### Comming Soon (Undetermined)
 * ~~[Discord BOT: YBOT v3.7 (support Slash Command)](https://yhs.kr/YBOT)~~
@@ -104,6 +106,7 @@
 
 ## Notes [비고]
 * <img src="https://img.shields.io/badge/Release-blue?style?style=plastic"> : 배포 중 / 운영 중
+* <img src="https://img.shields.io/badge/Not%20Release-blue?style?style=plastic"> : 작업 완료 / 비공개 배포
 * <img src="https://img.shields.io/badge/Process-green?style?style=plastic"> : 작업 중
 * <img src="https://img.shields.io/badge/Archive-yellow?style?style=plastic"> : 운영 중단 / 프로젝트 계승
 * <img src="https://img.shields.io/badge/Delay-orange?style?style=plastic"> : 작업 지연
