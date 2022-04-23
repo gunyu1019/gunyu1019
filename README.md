@@ -32,7 +32,7 @@ I am an high school student who does various types of programming
     <thead>
         <tr>
           <th>Language</th>
-          <th>Platform</th>
+          <th>Platform & System</th>
           <th>IDE & Editor</th>
         </tr>
     </thead>
@@ -104,6 +104,12 @@ I am an high school student who does various types of programming
 ### My Project
 My Project information is available [here](projects.md).
 
+**Main Project(2022)**
+* YBOTv4 (Discord Bot)
+* [PUBG BOT](https://pubg.yhs.kr) (Discord Bot)
+* [MyBUS](https://github.com/gunyu1019/trafficApplication)
+* [MySchool](https://github.com/gunyu1019/myschool)
+
 ### Content Us
 <ul>
   <li><a href="mailto:gunyu1019@gmail.com">
@@ -113,17 +119,4 @@ My Project information is available [here](projects.md).
   </a></li><li><a href="mailto:gunyu1019@icmp.kr">
     Team mail(Cailco Cheese): gunyu1019@icmp.kr
   </a></li>
-</ul>
-
-### Donate
-<ul>
-  <li>
-    <a href="https://www.patreon.com/gunyu1019">Patreon</a>
-  </li>
-  <li>
-    <a href="https://toss.me/gunyu1019">Toss</a>
-  </li>
-  <li>
-    <a href="https://www.buymeacoffee.com/gunyu1019">Buy Me A Coffee</a>
-  </li>
 </ul>
