@@ -8,7 +8,7 @@
 * [Discord BOT: YBOT - 1st ~ 3rd Remake](https://github.com/gunyu1019/YBOT)
   <img src="https://img.shields.io/badge/Archive-yellow?style?style=plastic">
 * [Discord BOT lecture](https://blog.yonghyeon.com/category/%EA%B0%9C%EB%B0%9C%20%EA%B0%95%EC%A2%8C/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C%EB%B4%87%20%EA%B0%95%EC%A2%8C)
-  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
+  <img src="https://img.shields.io/badge/Archive-yellow?style?style=plastic">
 * Discord BOT: YBOT (powered by Node.JS)
   <img src="https://img.shields.io/badge/Abort-red?style?style=plastic">
 * KakaoTalk BOT: YBOT 3.0
@@ -20,7 +20,7 @@
 * [Python Carwling lecture](https://blog.yonghyeon.com/category/%EA%B0%9C%EB%B0%9C%20%EA%B0%95%EC%A2%8C/%ED%81%AC%EB%A1%A4%EB%A7%81%20%EA%B0%95%EC%A2%8C)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 * [API: PUBG OpenAPI](https://github.com/gunyu1019/PUBG-API)
-  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
+  <img src="https://img.shields.io/badge/Archive-yellow?style?style=plastic">
 * [Discord BOT: Music-Bot](https://github.com/gunyu1019/Music-Bot)
   <img src="https://img.shields.io/badge/Archive-yellow?style?style=plastic">
 * [Discord BOT: Botflix](https://github.com/Botflix/Botflix)
@@ -76,7 +76,6 @@
   <img src="https://img.shields.io/badge/Not%20Release-blue?style?style=plastic">
 * ~~Android Application(WearOS): Vcoin (Project: CatCoin)~~
   <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
-* [API: PUBG OpenAPI - remake](https://github.com/gunyu1019/PUBG-API)
 * [Website: YWEB - Secondry Work](https://github.com/gunyu1019/Yweb)
   <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
 * ~~[Discord BOT: YBOT v3.7(Management Update)](https://yhs.kr/YBOT)~~
@@ -89,20 +88,20 @@
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
   
 ### My Project (2022 First half of the year)
+* [Discord BOT & Website: PUBG BOT - v2.3](https://pubg.yhs.kr)
+  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 * Muiti-Platform: MySchool
 * [Android Application: Traffic(MyBUS)](https://github.com/gunyu1019/trafficApplication)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 * [API: Traffic API](https://github.com/gunyu1019/trafficAPI)
   <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
+* [API: Traffic API](https://github.com/gunyu1019/trafficAPI)
+  <img src="https://img.shields.io/badge/Release-blue?style?style=plastic">
 
 ### Comming Soon (Undetermined)
-* ~~[Discord BOT: YBOT v3.7 (support Slash Command)](https://yhs.kr/YBOT)~~
-  <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
 * [Minecraft Bukkit Plugins: BattleRoyal](https://github.com/gunyu1019/BattleRoyal)
-* Hardware / Android Application: Smart Strongbox
+* [API: PUBG OpenAPI - remake](https://github.com/gunyu1019/PUBG-API)
 * Oauth2 Web lecture
-* Discord Bot Game Virtual Country
-* Android Application: Project TODO 
 
 ## Notes [비고]
 * <img src="https://img.shields.io/badge/Release-blue?style?style=plastic"> : 배포 중 / 운영 중
