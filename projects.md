@@ -74,8 +74,6 @@
   <img src="https://img.shields.io/badge/Archive-yellow?style?style=plastic">
 * [Android Application(WearOS): Corona19](https://github.com/gunyu1019/covid19-wear)
   <img src="https://img.shields.io/badge/Not%20Release-blue?style?style=plastic">
-* ~~Android Application(WearOS): Vcoin (Project: CatCoin)~~
-  <img src="https://img.shields.io/badge/Cancel-red?style?style=plastic">
 * [Website: YWEB - Secondry Work](https://github.com/gunyu1019/Yweb)
   <img src="https://img.shields.io/badge/Process-green?style?style=plastic">
 * ~~[Discord BOT: YBOT v3.7(Management Update)](https://yhs.kr/YBOT)~~
