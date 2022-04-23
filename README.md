@@ -16,7 +16,19 @@ I am an high school student who does various types of programming
   </a>
 </div>
 
-### Languages & Platform
+### My Project
+My Project information is available [here](projects.md).
+
+**Main Project(2022)**
+
+<ul>
+  <li><img src="https://yhs.kr/YBOT/static/img/YBOT.png" height="30px" align="center"/> YBOTv4 (Discord Bot)</li>
+  <li><img src="https://pubg.yhs.kr/static/image/logo.png" height="30px" align="center"/> <a href="https://pubg.yhs.kr">PUBG BOT</a> (Discord Bot)</li>
+  <li><img src="https://lh3.googleusercontent.com/zyEd74VJGU4Ubd9fkuSZTgTQKOE91bZRADgba2wY62FjCKFtaVdPtEr88j1jmJlpqQ" height="30px" align="center"/> <a href="https://github.com/gunyu1019/trafficApplication">MyBUS</a></li>
+  <li><a href="https://github.com/gunyu1019/myschool">MySchool</a></li>
+</ul>
+
+### Languages & Developing
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gunyu1019&theme=tokyonight&layout=compact)<br/>
 > I think that's enough even if I'm not good at programming!<br/>
 > Programming is a place where you can create everything with will.<br/>
@@ -72,15 +84,6 @@ I am an high school student who does various types of programming
       </tr>
     </tbody>
 </table>
-
-### My Project
-My Project information is available [here](projects.md).
-
-**Main Project(2022)**
-* YBOTv4 (Discord Bot)
-* [PUBG BOT](https://pubg.yhs.kr) (Discord Bot)
-* [MyBUS](https://github.com/gunyu1019/trafficApplication)
-* [MySchool](https://github.com/gunyu1019/myschool)
 
 ### Content Us
 <ul>
