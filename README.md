@@ -24,7 +24,7 @@ My Project information is available [here](projects.md).
 <ul>
   <li><img src="https://yhs.kr/YBOT/static/img/YBOT.png" height="30px" align="center"/> YBOTv4 (Discord Bot)</li>
   <li><img src="https://pubg.yhs.kr/static/image/logo.png" height="30px" align="center"/> <a href="https://pubg.yhs.kr">PUBG BOT</a> (Discord Bot)</li>
-  <li><img src="https://lh3.googleusercontent.com/zyEd74VJGU4Ubd9fkuSZTgTQKOE91bZRADgba2wY62FjCKFtaVdPtEr88j1jmJlpqQ" height="30px" align="center"/> <a href="https://github.com/gunyu1019/trafficApplication">MyBUS</a> (Android Application, WearOS Application)</li>
+  <li><img src="https://lh3.googleusercontent.com/zyEd74VJGU4Ubd9fkuSZTgTQKOE91bZRADgba2wY62FjCKFtaVdPtEr88j1jmJlpqQ" height="30px" align="center"/> <a href="https://github.com/gunyu1019/trafficApplication">MyBUS</a> (Android, WearOS, iOS, watchOS Application)</li>
   <li><img src="https://raw.githubusercontent.com/gunyu1019/myschool/main/icon.png" height="30px" align="center"/><a href="https://github.com/gunyu1019/myschool"> MySchool</a> (SKT NUGU, Google Assistant ... Multi Platform)</li>
   <li>Craft Bot (Discord Bot, TBD)</li>
 </ul>
