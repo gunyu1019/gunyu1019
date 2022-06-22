@@ -61,8 +61,9 @@ My Project information is available [here](projects.md).
              <ul>
                <li><b>Android Application<br/>(and WearOS Application)</b></li>
                <li><b>Discord Bot</b></li>
+               <li><del>iOS Application<br/>(and watchOS Application)</del></li>
                <li>Minecraft Plugin (Bukkit)</li>
-               <li>Python Module</li>
+               <li>Python Package</li>
                <li><b>Website</b></li>
              </ul> 
           </td>
