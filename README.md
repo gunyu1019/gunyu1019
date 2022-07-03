@@ -49,8 +49,6 @@ My Project information is available [here](projects.md).
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="20px" align="center"> <b>Python 3</b></li>
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="20px" align="center"> <b>Kotlin</b></li>
                <li>SQL</li>
-               <li><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="20px" align="center">C</li>
-               <li><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="20px" align="center"> C++</li>
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="20px" align="center"> JavaScript</li>
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="20px" align="center"> TypeScript</li>
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="20px" align="center"> node.js</li>
