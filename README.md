@@ -26,8 +26,8 @@ My Project information is available [here](projects.md).
   <li><img src="https://pubg.yhs.kr/static/image/logo.png" height="30px" align="center"/> <a href="https://pubg.yhs.kr">PUBG BOT</a> (Discord Bot)</li>
   <li><img src="https://lh3.googleusercontent.com/zyEd74VJGU4Ubd9fkuSZTgTQKOE91bZRADgba2wY62FjCKFtaVdPtEr88j1jmJlpqQ" height="30px" align="center"/> <a href="https://github.com/gunyu1019/trafficApplication">MyBUS</a> (Android, WearOS, iOS, watchOS Application)</li>
   <li><img src="https://raw.githubusercontent.com/gunyu1019/myschool/main/icon.png" height="30px" align="center"/><a href="https://github.com/gunyu1019/myschool"> MySchool</a> (SKT NUGU, Google Assistant ... Multi Platform)</li>
-  <li><a href="https://github.com/gunyu1019/CraftBot">Craft Bot (Discord Bot)</a></li>
-  <li><a href="https://github.com/gunyu1019/mymetro">MyMetro (Wear OS, watchOS)</a></li>
+  <li><a href="https://github.com/gunyu1019/CraftBot">Craft Bot</a> (Website, Discord Bot)</li>
+  <li><a href="https://github.com/gunyu1019/mymetro">MyMetro</a> (Wear OS, watchOS)</li>
 </ul>
 
 ### Languages & Developing
