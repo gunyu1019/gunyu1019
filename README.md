@@ -86,7 +86,7 @@ My Project information is available [here](projects.md).
     </tbody>
 </table>
 
-### Content Us
+### Contact Us
 <ul>
   <li><a href="mailto:gunyu1019@gmail.com">
     Personal Gmail: gunyu1019@gmail.com
