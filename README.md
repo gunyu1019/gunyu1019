@@ -90,7 +90,7 @@ My Project information is available [here](projects.md).
   <li><a href="mailto:gunyu1019@gmail.com">
     Personal Gmail: gunyu1019@gmail.com
   </a></li><li><a href="mailto:gunyu1019@yhs.kr">
-    Main mail: gunyu1019@yhs.kr
+    Offical mail: gunyu1019@yhs.kr
   </a></li><li><a href="mailto:gunyu1019@icmp.kr">
     Team mail(Cailco Cheese): gunyu1019@icmp.kr
   </a></li>
