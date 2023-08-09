@@ -20,16 +20,6 @@ I am an college student who tries various fields of programming.
 ### My Project
 My Project information is available [here](projects.md).
 
-#### Original Project in 2022
-
-<ul>
-  <li><img src="https://yhs.kr/YBOT/static/img/YBOT.png" height="30px" align="center"/> YBOTv4 (Discord Bot)</li>
-  <li><img src="https://pubg.yhs.kr/static/image/logo.png" height="30px" align="center"/> <a href="https://pubg.yhs.kr">PUBG BOT</a> (Discord Bot)</li>
-  <li><img src="https://lh3.googleusercontent.com/zyEd74VJGU4Ubd9fkuSZTgTQKOE91bZRADgba2wY62FjCKFtaVdPtEr88j1jmJlpqQ" height="30px" align="center"/> <a href="https://github.com/gunyu1019/trafficApplication">MyBUS</a> (Android, WearOS, iOS, watchOS Application)</li>
-  <li><img src="https://raw.githubusercontent.com/gunyu1019/myschool/main/icon.png" height="30px" align="center"/><a href="https://github.com/gunyu1019/myschool"> MySchool</a> (SKT NUGU, Google Assistant ... Multi Platform)</li>
-  <li><a href="https://github.com/gunyu1019/mymetro">MyMetro</a> (Wear OS, watchOS)</li>
-</ul>
-
 ### Languages & Developing
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gunyu1019&theme=tokyonight&layout=compact)<br/>
 > I think that's enough even if I'm not good at programming!<br/>
