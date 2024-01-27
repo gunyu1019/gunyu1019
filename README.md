@@ -17,9 +17,6 @@ I am an college student who tries various fields of programming.
   </a>
 </div>
 
-### My Project
-My Project information is available [here](projects.md).
-
 ### Languages & Developing
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gunyu1019&theme=tokyonight&layout=compact)<br/>
 > I think that's enough even if I'm not good at programming!<br/>
