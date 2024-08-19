@@ -12,8 +12,8 @@ I am an college student who tries various fields of programming.
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=gunyu1019&count_private=true&show_icons=true&theme=tokyonight" width="45%" />
-  <a href="https://profile.codersrank.io/user/gunyu1019/">
-    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=gunyu1019&badges=2&branding=false" width="45%" />
+  <a href="https://solved.ac/profile/gunyu1019">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gunyu1019" width="45%" />
   </a>
 </div>
 
