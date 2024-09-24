@@ -25,7 +25,8 @@ I am an college student who tries various fields of programming.
 <ul>
   <li><a href="mailto:gunyu1019@gmail.com">
     Personal Gmail: gunyu1019@gmail.com
-  </a></li><li><a href="mailto:gunyu1019@yhs.kr">
-    Offical mail: gunyu1019@yhs.kr
   </a></li>
+  <!--- <li><a href="mailto:gunyu1019@yhs.kr">
+    Offical mail: gunyu1019@yhs.kr
+  </a></li> --->
 </ul>
