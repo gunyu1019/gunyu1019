@@ -6,7 +6,8 @@
 
 
 **Hi there 👋**<br/>
-I am an college student who tries various fields of programming.
+Nothing is impossible.<br/>
+I am a college student freely researching and developing software services.
 
 ![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=gunyu1019&theme=onedark)
 
@@ -17,15 +18,12 @@ I am an college student who tries various fields of programming.
   </a>
 </div>
 
-### Languages & Developing
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gunyu1019&theme=tokyonight&layout=compact)<br/>
-
-
 ### Contact Us
 <ul>
   <li><a href="mailto:gunyu1019@gmail.com">
     Personal Gmail: gunyu1019@gmail.com
   </a></li>
+  <li><a href="https://discord.gg/YWUvFQ69us">Discord Community: Developer Space</a></li>
   <!--- <li><a href="mailto:gunyu1019@yhs.kr">
     Offical mail: gunyu1019@yhs.kr
   </a></li> --->
