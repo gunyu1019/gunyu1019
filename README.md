@@ -9,12 +9,13 @@
 Nothing is impossible.<br/>
 I am a college student freely researching and developing software services.
 
-![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=gunyu1019&theme=onedark)
-
+<center>
+  <img src="https://github-profile-trophy.vercel.app?username=gunyu1019&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" />
+</center>
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunyu1019&count_private=true&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gunyu1019&count_private=true&show_icons=true&theme=tokyonight" height="150" />
   <a href="https://solved.ac/profile/gunyu1019">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gunyu1019" width="45%" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gunyu1019" height="150" />
   </a>
 </div>
 
