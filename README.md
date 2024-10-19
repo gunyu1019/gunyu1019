@@ -7,7 +7,8 @@
 
 **Hi there 👋**<br/>
 Nothing is impossible.<br/>
-I am a college student freely researching and developing software services.
+I am a college student freely researching and developing software services.</br>
+I went an army since 2rd April 2024. But I do programming on a Cloud Coding Platform.
 
 <center>
   <img src="https://github-profile-trophy.vercel.app?username=gunyu1019&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" />
