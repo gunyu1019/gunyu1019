@@ -6,8 +6,13 @@
 
 
 **Hi there 👋**<br/>
-Nothing is impossible.<br/>
 I am a college student freely researching and developing software services.</br>
+I enjoy developing the items listed.
+<ul>
+  <li>Organic program like a cement.</li>
+  <li>A service to make improvements an uncomfortable life</li>
+</ul>
+</br>
 I went an army since 2rd April 2024. But I do programming on a Cloud Development Platform.<sub>with CodeSnack, Github Codespace and Remote IDE</sub>
 
 <center>
