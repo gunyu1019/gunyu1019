@@ -9,7 +9,7 @@
 I am a college student freely researching and developing software services.</br>
 I enjoy developing the items listed.
 <ul>
-  <li>Organic program like a cement.</li>
+  <li>An organic program like a cement.</li>
   <li>A service to make improvements an uncomfortable life</li>
 </ul>
 </br>
