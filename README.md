@@ -15,6 +15,7 @@ I enjoy developing the items listed.
 </br>
 I went an army since 2rd April 2024. But I do programming on a Cloud Development Platform.<sub>with CodeSnack, Github Codespace and Remote IDE</sub>
 
+
 <center>
   <img src="https://github-profile-trophy.vercel.app?username=gunyu1019&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" />
 </center>
@@ -29,12 +30,13 @@ I went an army since 2rd April 2024. But I do programming on a Cloud Development
 
 <table>
     <thead>
-        <td align="center" colspan="2">
+        <td align="center" colspan="3">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunyu1019&theme=dracula&layout=compact" height="150" />
         </td>
         <tr>
           <th>Language</th>
           <th>Tech Stack</th>
+          <th>Prefered IDE & Tools</th>
         </tr>
     </thead>
     <tbody>
@@ -83,6 +85,21 @@ I went an army since 2rd April 2024. But I do programming on a Cloud Development
                   </sub>
                 </li>
               </ul>
+          </td>
+          <td>
+             <ul>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" height="20px" align="center"> <b>PyCharm</b></li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" height="20px" align="center"> <b>InteliJ IDEA</b></li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height="20px" align="center"> <b>Android Studio</b></li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" height="20px" align="center"> DataGrip</li>
+             </ul>
+             Cloud Development Platform
+             <ul>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/githubcodespaces/githubcodespaces-original.svg" height="20px" align="center"> <b>Github Codespaces</b></li>
+               <li><b>Codesnack IDE</b></li>
+               <li><img src="https://developers.google.com/static/idx/images/icon-192.png" height="20px" align="center"> Project IDX</li>
+               <li><strike>Remote Desktop</strike>...?</li>
+             </ul>
           </td>
         </tr>
     </tbody>
