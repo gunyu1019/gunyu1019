@@ -93,7 +93,7 @@ I went an army since 2rd April 2024. But I do programming on a Cloud Development
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height="20px" align="center"> <b>Android Studio</b></li>
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" height="20px" align="center"> DataGrip</li>
              </ul>
-             Cloud Development Platform
+             Cloud Development Enviroment
              <ul>
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/githubcodespaces/githubcodespaces-original.svg" height="20px" align="center"> <b>Github Codespaces</b></li>
                <li><b>Codesnack IDE</b></li>
