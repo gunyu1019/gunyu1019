@@ -67,12 +67,12 @@ I went an army since 2rd April 2024. But I do programming on a Cloud Development
            </td>
             <td>
               <ul>
-                <li><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height="20px" align="center"> Android Application</li>
+                <li><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height="20px" align="center"> Android Application<sub>(with <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" height="12px" align="center">)</sub></li>
                 <li><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="20px" align="center"> Python Package <sub><a href="https://pypi.org/user/gunyu1019/">pypi</a></sub></li>
                 <li><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="20px" align="center"> Flutter <sub>(Cross-Platform Application)</sub></li>
                 <li><img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="20px" align="center"> Github Action</li>
-                <li>Database</li>
-                <li>Discord Bot</li>
+                <li>Database<sub>(Preferred SQLAlchemy)</sub></li>
+                <li>Discord Bot<sub>(Used discord-ext-interaction)</sub></li>
                 <li>
                   Website
                   <sub>
