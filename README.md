@@ -1,19 +1,22 @@
 
 <h1 align="center">건유1019</h1>
 <p align="center">
-  <b>I'm a programmer.</b>
+  <b>삶과 세상에 유기적인 역할을 하는 프로그램을 만드는 대학생ㆍ개발자.</b>
 </p>
 
 
-**Hi there 👋**<br/>
-I am a college student freely researching and developing software services.</br>
-I enjoy developing the items listed.
+**👋 안녕하세요..?**<br/>
+저는 새로운 지식을 자유롭게 받아들이고,</br>
+도움이 되는 프로그램을 만드려는 대학생ㆍ개발자에요.</br>
+
+저는 두 가지의 꿈을 이루기 위해 프로그래밍을 하고 있어요.
 <ul>
-  <li>An organic program like a cement.</li>
-  <li>A service to make improvements an uncomfortable life</li>
+  <li>현대 시대에서 시멘트는 건물의 빈틈을 메꾸는 것처럼,</br>세상과 삶에 빈틈을 메꿀 수 있는 프로그램을 만들기 위해 항상 연구 및 개발을 하고 있어요.</li>
+  <li>인생을 살아가며 느끼는 삶의 불편한 요소를 해결하는 프로그램을 만들어보고 있어요.</li>
 </ul>
-</br>
-I went an army since 2rd April 2024. But I do programming on a Cloud Development Platform.<sub>with CodeSnack, Github Codespace and Remote IDE</sub>
+
+저는 대한민국 의무복무를 다하기 위해 24년 4월 2일부 입대를 하였어요.<br/>
+하지만 꿈을 이루고 싶은 열정을 위해 Cloud Development Platform을 구축하여 저를 발전시키고 있어요.
 
 
 <center>
@@ -108,7 +111,7 @@ I went an army since 2rd April 2024. But I do programming on a Cloud Development
 ### Contact Us
 <ul>
   <li><a href="mailto:gunyu1019@gmail.com">
-    Personal Gmail: gunyu1019@gmail.com
+    Personal E-mail: gunyu1019@gmail.com
   </a></li>
   <li><a href="https://discord.gg/YWUvFQ69us">Discord Community: Developer Space</a></li>
   <!--- <li><a href="mailto:gunyu1019@yhs.kr">
