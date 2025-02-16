@@ -51,13 +51,12 @@
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="20px" align="center"> <b>Python 3</b></li>
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="20px" align="center"> <b>Kotlin</b></li>
              </ul>
-               <details>
-                  <summary>Secondary Language</summary>
+             Secondary Language
                    <ul>
+                     <li><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" height="20px" align="center"> Dart</li>
                      <li><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="20px" align="center"> SQL</li>
                      <li><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="20px" align="center"> TypeScript</li>
                    </ul> 
-              </details>
                <details>
                  <summary>Available Language</summary>
                  <li><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="20px" align="center"> C</li>
@@ -67,7 +66,7 @@
                </details>
                <details>
                  <summary>Learning Language</summary>
-                 <li><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" height="20px" align="center"> Dart<sub>(Learning in 25Q1)</sub></li>
+                 <li><img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" height="20px" align="center"> Swift<sub>(Learning in 25Q1)</sub></li>
                </details>
              </ul> 
            </td>
@@ -78,7 +77,7 @@
                 <li><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="20px" align="center"> Flutter <sub>(Cross-Platform Application)</sub></li>
                 <li><img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="20px" align="center"> Github Action</li>
                 <li>Database<sub>(Preferred SQLAlchemy)</sub></li>
-                <li>Discord Bot<sub>(Used discord-ext-interaction)</sub></li>
+                <li>Discord Bot<sub>(with discord-ext-interaction)</sub></li>
                 <li>
                   Website
                   <sub>
@@ -96,12 +95,16 @@
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" height="20px" align="center"> <b>InteliJ IDEA</b></li>
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height="20px" align="center"> <b>Android Studio</b></li>
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" height="20px" align="center"> DataGrip</li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" height="20px" align="center"> XCode</li>
              </ul>
              Cloud Development Enviroment
              <ul>
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/githubcodespaces/githubcodespaces-original.svg" height="20px" align="center"> <b>Github Codespaces</b></li>
                 <li><img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="20px" align="center"> <b>Github Action</b></li>
+                <li><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="20px" align="center"> <b>Docker</b></li>
                <li><img src="https://developers.google.com/static/idx/images/icon-192.png" height="20px" align="center"> Project IDX</li>
+               <li><img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" height="20px" align="center"> dev.nix</li>
+               <li>Virtual MacOS <sub>for XCode & Simulator</sub></li>
                <li><strike>Remote Desktop</strike>...?</li>
              </ul>
           </td>
