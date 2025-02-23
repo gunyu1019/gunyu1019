@@ -77,6 +77,7 @@
                 <li><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="20px" align="center"> Flutter <sub>(Cross-Platform Application)</sub></li>
                 <li><img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="20px" align="center"> Github Action</li>
                 <li>Database<sub>(Preferred SQLAlchemy)</sub></li>
+                <li><img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" height="20px" align="center"> Socket.io</li>
                 <li>Discord Bot<sub>(with discord-ext-interaction)</sub></li>
                 <li>
                   Website
