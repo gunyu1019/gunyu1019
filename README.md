@@ -16,7 +16,7 @@
 </ul>
 
 저는 대한민국 의무복무를 다하기 위해 24년 4월 2일부 입대를 하였어요.<br/>
-하지만 꿈을 이루고 싶은 열정을 위해 Cloud Development Platform을 구축하여 저를 발전시키고 있어요.
+하지만 꿈을 이루고 싶은 열정을 위해 Cloud Development Environment을 구축하여 저를 발전시키고 있어요.
 
 
 <center>
