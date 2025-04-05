@@ -113,6 +113,12 @@
     </tbody>
 </table>
 
+
+### Project
+아래에 기재된 프로젝트는 2025년에 배포한 프로젝트에요!
+* Python SDK, [chzzkpy v2.0](https://github.com/gunyu1019/chzzkpy) - March 5th, 2025
+* Flutter Plugin, [Kakao Map SDK](https://github.com/gunyu1019/flutter_kakao_maps) - April 10th, 2025
+
 ### Contact Us
 <ul>
   <li><a href="mailto:gunyu1019@gmail.com">
