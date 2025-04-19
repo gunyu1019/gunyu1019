@@ -16,7 +16,7 @@
 </ul>
 
 저는 대한민국 의무복무를 다하기 위해 24년 4월 2일부 입대를 하였어요.<br/>
-하지만 꿈을 이루고 싶은 열정을 위해 클라우드 개발 환경(Cloud Development Environment)을 구축하여 저를 발전시키고 있어요.
+하지만 꿈을 이루고 싶은 열정을 위해 클라우드 개발 환경(Cloud IDE)을 구축하여 저를 발전시키고 있어요.
 
 
 <center>
@@ -98,13 +98,11 @@
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" height="20px" align="center"> DataGrip</li>
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" height="20px" align="center"> XCode</li>
              </ul>
-             Cloud Development Enviroment
+             Cloud IDE
              <ul>
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/githubcodespaces/githubcodespaces-original.svg" height="20px" align="center"> <b>Github Codespaces</b></li>
                 <li><img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="20px" align="center"> <b>Github Action</b></li>
                 <li><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="20px" align="center"> <b>Docker</b></li>
-               <li><img src="https://developers.google.com/static/idx/images/icon-192.png" height="20px" align="center"> Project IDX</li>
-               <li><img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" height="20px" align="center"> dev.nix</li>
                <li>Virtual MacOS <sub>for XCode & Simulator</sub></li>
                <li><strike>Remote Desktop</strike>...?</li>
              </ul>
