@@ -9,10 +9,10 @@
 저는 새로운 지식을 자유롭게 받아들이고,</br>
 도움이 되는 프로그램을 만드려는 대학생ㆍ개발자에요.</br>
 
-저는 두 가지의 꿈을 이루기 위해 프로그래밍을 하고 있어요.
+저는 두 가지의 유형의 프로그램을 만드려고 해요.
 <ul>
-  <li>현대 시대에서 시멘트는 건물의 빈틈을 메꾸는 것처럼,</br>세상과 삶에 빈틈을 메꿀 수 있는 프로그램을 만들기 위해 항상 연구 및 개발을 하고 있어요.</li>
-  <li>인생을 살아가며 느끼는 불편한 요소를 해결하는 프로그램을 만들어보고 있어요.</li>
+  <li>시멘트는 건물의 빈틈을 메꾸는 것처럼, 세상과 삶에 빈틈을 메꿀 수 있는 프로그램</li>
+  <li>인생을 살아가며 느끼는 불편한 요소를 해결하는 프로그램</li>
 </ul>
 
 저는 대한민국 의무복무를 다하기 위해 24년 4월 2일부 입대를 하였어요.<br/>
@@ -103,6 +103,7 @@
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/githubcodespaces/githubcodespaces-original.svg" height="20px" align="center"> <b>Github Codespaces</b></li>
                 <li><img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="20px" align="center"> <b>Github Action</b></li>
                 <li><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="20px" align="center"> <b>Docker</b></li>
+               <li><img src="https://firebase.google.com/static/images/icons/firebase_studio.png?hl=ko" height="20px" align="center"> <b>Firebase Studio</b></li>
                <li>Virtual MacOS <sub>for XCode & Simulator</sub></li>
                <li><strike>Remote Desktop</strike>...?</li>
              </ul>
