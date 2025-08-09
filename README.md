@@ -16,10 +16,6 @@
   <li>누군가에게 도움이 될 수 있는 필요한 프로그램</li>
 </ul>
 
-저는 대한민국 의무복무를 다하기 위해 24년 4월 2일부 입대를 하였어요.<br/>
-하지만 꿈을 이루고 싶은 열정을 위해 클라우드 개발 환경(Cloud IDE)을 구축하여 저를 발전시키고 있어요.
-
-
 <center>
   <img src="https://github-profile-trophy.vercel.app?username=gunyu1019&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" />
 </center>
