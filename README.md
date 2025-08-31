@@ -60,10 +60,7 @@
                  <li><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="20px" align="center"> Java</li>
                  <li><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="20px" align="center"> JavaScript</li>
                  <li><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="20px" align="center"> PHP</li>
-               </details>
-               <details>
-                 <summary>Learning Language</summary>
-                 <li><img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" height="20px" align="center"> Swift<sub>(Learning in 25Q1)</sub></li>
+                 <li><img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" height="20px" align="center"> Swift</li>
                </details>
              </ul> 
            </td>
