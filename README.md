@@ -92,15 +92,6 @@
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" height="20px" align="center"> DataGrip</li>
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" height="20px" align="center"> XCode</li>
              </ul>
-             Cloud IDE
-             <ul>
-               <li><img src="https://github.com/devicons/devicon/blob/master/icons/githubcodespaces/githubcodespaces-original.svg" height="20px" align="center"> <b>Github Codespaces</b></li>
-                <li><img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="20px" align="center"> <b>Github Action</b></li>
-                <li><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="20px" align="center"> <b>Docker</b></li>
-               <li><img src="https://firebase.google.com/static/images/icons/firebase_studio.png?hl=ko" height="20px" align="center"> <b>Firebase Studio</b></li>
-               <li>Virtual MacOS <sub>for XCode & Simulator</sub></li>
-               <li><strike>Remote Desktop</strike>...?</li>
-             </ul>
           </td>
         </tr>
     </tbody>
