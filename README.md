@@ -20,7 +20,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=gunyu1019&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" />
 </center>
 <div style="display: flex;">
-  <img style="max-width: 20%" src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjE2NzY3ODkw" />
+  <img style="max-width: 33%" src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjE2NzY3ODkw" height="120" />
   <!-- <img style="max-width: 33%" src="https://github-readme-stats.vercel.app/api?username=gunyu1019&count_private=true&show_icons=true&theme=tokyonight" height="120" /> -->
   <a href="https://solved.ac/profile/gunyu1019">
     <img style="max-width: 33%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gunyu1019" height="120" />
